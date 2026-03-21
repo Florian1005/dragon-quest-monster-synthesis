@@ -11,7 +11,7 @@ export default defineNuxtConfig({
 
   css: ["~/assets/css/main.css"],
   image: {
-    dir: "public",
+    provider: "static",
   },
   future: {
     compatibilityVersion: 4,
