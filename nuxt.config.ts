@@ -12,6 +12,9 @@ export default defineNuxtConfig({
   css: ["~/assets/css/main.css"],
   image: {
     provider: "static",
+    alias: {
+      "/img": "/dragon-quest-monster-synthesis/img",
+    },
   },
   future: {
     compatibilityVersion: 4,
