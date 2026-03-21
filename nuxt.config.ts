@@ -7,19 +7,10 @@ export default defineNuxtConfig({
   },
 
   ssr: false,
-  modules: ["@nuxt/ui", "@nuxt/image"],
+  modules: ["@nuxt/ui"],
 
   css: ["~/assets/css/main.css"],
-  image: {
-    dir: "public",
-    provider: "static",
-  },
-  nitro: {
-    prerender: {
-      crawlLinks: true,
-      routes: ["/"],
-    },
-  },
+
   future: {
     compatibilityVersion: 4,
   },

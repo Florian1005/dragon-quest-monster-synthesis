@@ -13,8 +13,8 @@
     <div
       class="absolute top-1 right-1 z-10 w-6 h-6 p-1 bg-white/90 dark:bg-gray-800/90 rounded-full shadow-sm ring-1 ring-black/5"
     >
-      <NuxtImg
-        :src="`/img/dqmj3pro/types/${monster.type}.png`"
+      <img
+        :src="resolvePath(`/img/dqmj3pro/types/${monster.type}.png`)"
         :alt="monster.type"
         class="w-full h-full object-contain"
         @error="handleIconError"
@@ -25,7 +25,7 @@
       class="aspect-square flex items-center justify-center p-2 bg-gray-50/50 dark:bg-gray-900/50 rounded-lg"
     >
       <img
-        :src="monster.image"
+        :src="resolvePath(monster.image)"
         :alt="monster.name"
         class="w-full h-24 object-contain drop-shadow-md group-hover:drop-shadow-xl transition-all"
       />
@@ -40,6 +40,7 @@
 </template>
 
 <script setup lang="ts">
+import { useAsset } from "~/composable/useAsset";
 import type { Monster } from "~/interfaces/monster.interface";
 
 defineProps<{
@@ -47,7 +48,7 @@ defineProps<{
 }>();
 
 defineEmits(["click"]);
-
+const { resolvePath } = useAsset();
 // Optionnel : Une petite fonction pour colorer les badges selon le rang
 const getRankColor = (rank: string) => {
   const colors: Record<string, string> = {
