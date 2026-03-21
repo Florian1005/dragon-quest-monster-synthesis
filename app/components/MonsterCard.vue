@@ -64,6 +64,8 @@ const getRankColor = (rank: string) => {
 };
 
 const handleIconError = (e: Event) => {
-  (e.target as HTMLImageElement).src = resolvePath("/img/type/inconnu.png");
+  (e.target as HTMLImageElement).src = resolvePath(
+    "/img/dqmj3pro/types/inconnu.png",
+  );
 };
 </script>
