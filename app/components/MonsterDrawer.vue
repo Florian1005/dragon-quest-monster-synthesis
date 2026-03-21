@@ -207,6 +207,7 @@ const props = defineProps<{
 }>();
 
 const emit = defineEmits(["update:modelValue"]);
+const config = useRuntimeConfig();
 const { getMonster } = useMonsters();
 const { resolvePath } = useAsset();
 const recipes = ref<Recipe[]>([]);
@@ -217,7 +218,10 @@ const tabs = [
 ];
 
 onMounted(async () => {
-  const data = await fetch("/data/dqmj3pro/recipes.json").then((r) => r.json());
+  const baseUrl = config.app.baseURL;
+  const data = await fetch(`${baseUrl}/data/dqmj3pro/recipes.json`).then((r) =>
+    r.json(),
+  );
   recipes.value = data;
 });
 
