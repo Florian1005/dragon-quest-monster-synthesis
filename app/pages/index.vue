@@ -4,6 +4,7 @@ import { useMonsters } from "../composable/useMonster";
 import type { Monster } from "../interfaces/monster.interface";
 import { useRecipes } from "~/composable/useRecipes";
 
+const config = useRuntimeConfig();
 const { monsters } = useMonsters();
 const { recipes } = useRecipes();
 
@@ -14,11 +15,12 @@ const selected = ref<Monster | null>(null);
 const isOpen = ref(false);
 
 onMounted(async () => {
-  monsters.value = await fetch("/data/dqmj3pro/monsters_list.json").then((r) =>
-    r.json(),
-  );
-  recipes.value = await fetch("/data/dqmj3pro/recipes.json").then((r) =>
-    r.json(),
+  const baseUrl = config.app.baseURL;
+  monsters.value = await fetch(
+    `${baseUrl}/data/dqmj3pro/monsters_list.json`,
+  ).then((r) => r.json());
+  recipes.value = await fetch(`${baseUrl}data/dqmj3pro/recipes.json`).then(
+    (r) => r.json(),
   );
 });
 
