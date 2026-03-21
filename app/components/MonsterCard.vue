@@ -49,7 +49,6 @@ defineProps<{
 
 defineEmits(["click"]);
 const { resolvePath } = useAsset();
-// Optionnel : Une petite fonction pour colorer les badges selon le rang
 const getRankColor = (rank: string) => {
   const colors: Record<string, string> = {
     SS: "bg-purple-600",
@@ -65,7 +64,6 @@ const getRankColor = (rank: string) => {
 };
 
 const handleIconError = (e: Event) => {
-  // Image de secours si l'icône de type n'existe pas
-  (e.target as HTMLImageElement).src = "/img/type/inconnu.png";
+  (e.target as HTMLImageElement).src = resolvePath("/img/type/inconnu.png");
 };
 </script>
