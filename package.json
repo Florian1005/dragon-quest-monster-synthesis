@@ -1,0 +1,27 @@
+{
+  "name": "dq-synth",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@nuxt/ui": "^4.5.1",
+    "@vue-flow/background": "^1.3.2",
+    "@vue-flow/controls": "^1.1.3",
+    "@vue-flow/core": "^1.48.2",
+    "dagre": "^0.8.5",
+    "nuxt": "^4.4.2",
+    "vue": "^3.5.30"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "@types/dagre": "^0.7.54",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^4.2.2"
+  }
+}

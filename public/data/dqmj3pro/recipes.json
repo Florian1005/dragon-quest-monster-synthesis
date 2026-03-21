@@ -1,0 +1,3304 @@
+[
+  {
+    "result": "001",
+    "ingredients": ["Prairies Silencieuses"],
+    "isUnique": false
+  },
+  {
+    "result": "002",
+    "ingredients": ["001", "003"],
+    "isUnique": false
+  },
+  {
+    "result": "003",
+    "ingredients": ["016", "004"],
+    "isUnique": false
+  },
+  {
+    "result": "004",
+    "ingredients": ["003", "005"],
+    "isUnique": false
+  },
+  {
+    "result": "005",
+    "ingredients": ["004", "006"],
+    "isUnique": false
+  },
+  {
+    "result": "006",
+    "ingredients": ["005", "018"],
+    "isUnique": false
+  },
+  {
+    "result": "007",
+    "ingredients": ["019", "008"],
+    "isUnique": false
+  },
+  {
+    "result": "008",
+    "ingredients": ["007", "020"],
+    "isUnique": false
+  },
+  {
+    "result": "009",
+    "ingredients": ["008", "010"],
+    "isUnique": false
+  },
+  {
+    "result": "010",
+    "ingredients": ["020", "011"],
+    "isUnique": false
+  },
+  {
+    "result": "011",
+    "ingredients": ["010", "012"],
+    "isUnique": false
+  },
+  {
+    "result": "012",
+    "ingredients": ["011", "059"],
+    "isUnique": false
+  },
+  {
+    "result": "013",
+    "ingredients": ["038", "030"],
+    "isUnique": false
+  },
+  {
+    "result": "014",
+    "ingredients": ["013", "015"],
+    "isUnique": false
+  },
+  {
+    "result": "015",
+    "ingredients": ["001", "004"],
+    "isUnique": false
+  },
+  {
+    "result": "016",
+    "ingredients": ["001", "005"],
+    "isUnique": false
+  },
+  {
+    "result": "017",
+    "ingredients": ["005", "002"],
+    "isUnique": false
+  },
+  {
+    "result": "018",
+    "ingredients": ["001", "007"],
+    "isUnique": false
+  },
+  {
+    "result": "019",
+    "ingredients": ["017", "006"],
+    "isUnique": false
+  },
+  {
+    "result": "020",
+    "ingredients": ["008", "010"],
+    "isUnique": false
+  },
+  {
+    "result": "021",
+    "ingredients": ["001", "010"],
+    "isUnique": false
+  },
+  {
+    "result": "022",
+    "ingredients": ["059", "032"],
+    "isUnique": false
+  },
+  {
+    "result": "023",
+    "ingredients": ["010", "013"],
+    "isUnique": false
+  },
+  {
+    "result": "024",
+    "ingredients": ["001", "gluant"],
+    "isUnique": false
+  },
+  {
+    "result": "025",
+    "ingredients": ["020", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "026",
+    "ingredients": ["010", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "027",
+    "ingredients": ["010", "017"],
+    "isUnique": false
+  },
+  {
+    "result": "028",
+    "ingredients": ["059", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "029",
+    "ingredients": ["022", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "030",
+    "ingredients": ["033", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "031",
+    "ingredients": ["021", "020"],
+    "isUnique": false
+  },
+  {
+    "result": "032",
+    "ingredients": ["022", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "033",
+    "ingredients": ["005", "materiel"],
+    "isUnique": false
+  },
+  {
+    "result": "034",
+    "ingredients": ["Centrale de la Ville"],
+    "isUnique": false
+  },
+  {
+    "result": "035",
+    "ingredients": ["032", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "036",
+    "ingredients": ["026", "020"],
+    "isUnique": false
+  },
+  {
+    "result": "037",
+    "ingredients": ["023", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "038",
+    "ingredients": ["024", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "039",
+    "ingredients": ["001", "005"],
+    "isUnique": false
+  },
+  {
+    "result": "040",
+    "ingredients": ["026", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "041",
+    "ingredients": ["026", "031"],
+    "isUnique": false
+  },
+  {
+    "result": "042",
+    "ingredients": ["034", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "043",
+    "ingredients": ["026", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "044",
+    "ingredients": ["028", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "045",
+    "ingredients": ["029", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "046",
+    "ingredients": ["001", "dragon"],
+    "isUnique": false
+  },
+  {
+    "result": "047",
+    "ingredients": ["037", "030"],
+    "isUnique": false
+  },
+  {
+    "result": "048",
+    "ingredients": ["037", "030"],
+    "isUnique": false
+  },
+  {
+    "result": "049",
+    "ingredients": ["005", "dragon"],
+    "isUnique": false
+  },
+  {
+    "result": "050",
+    "ingredients": ["040", "030"],
+    "isUnique": false
+  },
+  {
+    "result": "051",
+    "ingredients": ["041", "040"],
+    "isUnique": false
+  },
+  {
+    "result": "052",
+    "ingredients": ["045", "naturel"],
+    "isUnique": false
+  },
+  {
+    "result": "053",
+    "ingredients": ["029", "naturel"],
+    "isUnique": false
+  },
+  {
+    "result": "054",
+    "ingredients": ["Prairies Silencieuses"],
+    "isUnique": false
+  },
+  {
+    "result": "055",
+    "ingredients": ["Ville Déchue"],
+    "isUnique": false
+  },
+  {
+    "result": "056",
+    "ingredients": ["046", "040"],
+    "isUnique": false
+  },
+  {
+    "result": "057",
+    "ingredients": ["046", "030"],
+    "isUnique": false
+  },
+  {
+    "result": "058",
+    "ingredients": ["048", "040"],
+    "isUnique": false
+  },
+  {
+    "result": "059",
+    "ingredients": ["029", "materiel"],
+    "isUnique": false
+  },
+  {
+    "result": "060",
+    "ingredients": ["048", "047"],
+    "isUnique": false
+  },
+  {
+    "result": "061",
+    "ingredients": ["013", "047"],
+    "isUnique": false
+  },
+  {
+    "result": "062",
+    "ingredients": ["049", "047"],
+    "isUnique": false
+  },
+  {
+    "result": "063",
+    "ingredients": ["050", "047"],
+    "isUnique": false
+  },
+  {
+    "result": "064",
+    "ingredients": ["Prairies Silencieuses"],
+    "isUnique": false
+  },
+  {
+    "result": "065",
+    "ingredients": ["058", "047"],
+    "isUnique": false
+  },
+  {
+    "result": "066",
+    "ingredients": ["052", "047", "RANG E"],
+    "isUnique": false
+  },
+  {
+    "result": "067",
+    "ingredients": ["028", "057"],
+    "isUnique": false
+  },
+  {
+    "result": "068",
+    "ingredients": ["029", "057"],
+    "isUnique": false
+  },
+  {
+    "result": "069",
+    "ingredients": ["032", "057"],
+    "isUnique": false
+  },
+  {
+    "result": "070",
+    "ingredients": ["033", "057"],
+    "isUnique": false
+  },
+  {
+    "result": "071",
+    "ingredients": ["Prairies Silencieuses"],
+    "isUnique": false
+  },
+  {
+    "result": "072",
+    "ingredients": ["057", "060"],
+    "isUnique": false
+  },
+  {
+    "result": "073",
+    "ingredients": ["063", "060"],
+    "isUnique": false
+  },
+  {
+    "result": "074",
+    "ingredients": ["058", "060"],
+    "isUnique": false
+  },
+  {
+    "result": "075",
+    "ingredients": ["016", "019"],
+    "isUnique": false
+  },
+  {
+    "result": "076",
+    "ingredients": ["062", "058"],
+    "isUnique": false
+  },
+  {
+    "result": "077",
+    "ingredients": ["011", "070"],
+    "isUnique": false
+  },
+  {
+    "result": "078",
+    "ingredients": ["005", "025"],
+    "isUnique": false
+  },
+  {
+    "result": "079",
+    "ingredients": ["069", "060"],
+    "isUnique": false
+  },
+  {
+    "result": "080",
+    "ingredients": ["067", "058"],
+    "isUnique": false
+  },
+  {
+    "result": "081",
+    "ingredients": ["068", "058"],
+    "isUnique": false
+  },
+  {
+    "result": "082",
+    "ingredients": ["028", "060"],
+    "isUnique": false
+  },
+  {
+    "result": "083",
+    "ingredients": ["070", "033"],
+    "isUnique": false
+  },
+  {
+    "result": "084",
+    "ingredients": ["074", "070"],
+    "isUnique": false
+  },
+  {
+    "result": "085",
+    "ingredients": ["032", "032", "032", "032"],
+    "isUnique": false
+  },
+  {
+    "result": "086",
+    "ingredients": ["057", "109"],
+    "isUnique": false
+  },
+  {
+    "result": "087",
+    "ingredients": ["075", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "088",
+    "ingredients": ["076", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "089",
+    "ingredients": ["077", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "090",
+    "ingredients": ["078", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "091",
+    "ingredients": ["Ville Déchue"],
+    "isUnique": false
+  },
+  {
+    "result": "092",
+    "ingredients": ["062", "077"],
+    "isUnique": false
+  },
+  {
+    "result": "093",
+    "ingredients": ["082", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "094",
+    "ingredients": ["084", "080"],
+    "isUnique": false
+  },
+  {
+    "result": "095",
+    "ingredients": ["083", "072"],
+    "isUnique": false
+  },
+  {
+    "result": "096",
+    "ingredients": ["015", "materiel"],
+    "isUnique": false
+  },
+  {
+    "result": "097",
+    "ingredients": ["028", "089"],
+    "isUnique": false
+  },
+  {
+    "result": "098",
+    "ingredients": ["086", "023"],
+    "isUnique": false
+  },
+  {
+    "result": "099",
+    "ingredients": ["057", "089"],
+    "isUnique": false
+  },
+  {
+    "result": "100",
+    "ingredients": ["090", "090"],
+    "isUnique": false
+  },
+  {
+    "result": "101",
+    "ingredients": ["029", "029"],
+    "isUnique": false
+  },
+  {
+    "result": "102",
+    "ingredients": ["090", "086"],
+    "isUnique": false
+  },
+  {
+    "result": "103",
+    "ingredients": ["091", "086"],
+    "isUnique": false
+  },
+  {
+    "result": "104",
+    "ingredients": ["028", "028"],
+    "isUnique": false
+  },
+  {
+    "result": "105",
+    "ingredients": ["093", "085"],
+    "isUnique": false
+  },
+  {
+    "result": "106",
+    "ingredients": ["095", "086"],
+    "isUnique": false
+  },
+  {
+    "result": "107",
+    "ingredients": ["062", "028"],
+    "isUnique": false
+  },
+  {
+    "result": "108",
+    "ingredients": ["098", "090"],
+    "isUnique": false
+  },
+  {
+    "result": "109",
+    "ingredients": ["097", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "110",
+    "ingredients": ["098", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "111",
+    "ingredients": ["099", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "112",
+    "ingredients": ["101", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "113",
+    "ingredients": ["103", "100"],
+    "isUnique": false
+  },
+  {
+    "result": "114",
+    "ingredients": ["102", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "115",
+    "ingredients": ["103", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "116",
+    "ingredients": ["104", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "117",
+    "ingredients": ["023", "gluant"],
+    "isUnique": false
+  },
+  {
+    "result": "118",
+    "ingredients": ["105", "096"],
+    "isUnique": false
+  },
+  {
+    "result": "119",
+    "ingredients": ["107", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "120",
+    "ingredients": ["109", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "121",
+    "ingredients": ["Nochorin\n\n(Sinistre Toundra)"],
+    "isUnique": false
+  },
+  {
+    "result": "122",
+    "ingredients": ["020", "116"],
+    "isUnique": false
+  },
+  {
+    "result": "123",
+    "ingredients": ["112", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "124",
+    "ingredients": ["004", "004"],
+    "isUnique": false
+  },
+  {
+    "result": "125",
+    "ingredients": ["083", "materiel"],
+    "isUnique": false
+  },
+  {
+    "result": "126",
+    "ingredients": ["116", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "127",
+    "ingredients": ["117", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "128",
+    "ingredients": ["117", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "129",
+    "ingredients": ["118", "107"],
+    "isUnique": false
+  },
+  {
+    "result": "130",
+    "ingredients": ["019", "026"],
+    "isUnique": false
+  },
+  {
+    "result": "131",
+    "ingredients": ["Coffres", "RANG D"],
+    "isUnique": false
+  },
+  {
+    "result": "132",
+    "ingredients": ["122", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "133",
+    "ingredients": ["123", "120"],
+    "isUnique": false
+  },
+  {
+    "result": "134",
+    "ingredients": ["064", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "135",
+    "ingredients": ["109", "089"],
+    "isUnique": true
+  },
+  {
+    "result": "136",
+    "ingredients": ["124", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "137",
+    "ingredients": ["127", "120"],
+    "isUnique": false
+  },
+  {
+    "result": "138",
+    "ingredients": ["125", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "139",
+    "ingredients": ["126", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "140",
+    "ingredients": ["128", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "141",
+    "ingredients": ["129", "119"],
+    "isUnique": false
+  },
+  {
+    "result": "142",
+    "ingredients": ["130", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "143",
+    "ingredients": ["130", "133"],
+    "isUnique": false
+  },
+  {
+    "result": "144",
+    "ingredients": ["034", "034"],
+    "isUnique": true
+  },
+  {
+    "result": "145",
+    "ingredients": ["132", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "146",
+    "ingredients": ["134", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "147",
+    "ingredients": ["049", "025"],
+    "isUnique": true
+  },
+  {
+    "result": "148",
+    "ingredients": ["136", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "149",
+    "ingredients": ["138", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "150",
+    "ingredients": ["139", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "151",
+    "ingredients": ["140", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "152",
+    "ingredients": ["142", "140"],
+    "isUnique": false
+  },
+  {
+    "result": "153",
+    "ingredients": ["141", "130"],
+    "isUnique": false
+  },
+  {
+    "result": "154",
+    "ingredients": ["144", "140"],
+    "isUnique": false
+  },
+  {
+    "result": "155",
+    "ingredients": ["144", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "156",
+    "ingredients": ["145", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "157",
+    "ingredients": ["Nochorin\n\n(Route Spirituelle)"],
+    "isUnique": false
+  },
+  {
+    "result": "158",
+    "ingredients": ["146", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "159",
+    "ingredients": ["Sinistre Toundra"],
+    "isUnique": false
+  },
+  {
+    "result": "160",
+    "ingredients": ["148", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "161",
+    "ingredients": ["149", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "162",
+    "ingredients": ["150", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "163",
+    "ingredients": ["151", "142"],
+    "isUnique": false
+  },
+  {
+    "result": "164",
+    "ingredients": ["066", "159"],
+    "isUnique": true
+  },
+  {
+    "result": "165",
+    "ingredients": ["155", "150"],
+    "isUnique": false
+  },
+  {
+    "result": "166",
+    "ingredients": ["156", "150"],
+    "isUnique": false
+  },
+  {
+    "result": "167",
+    "ingredients": ["155", "109"],
+    "isUnique": true
+  },
+  {
+    "result": "168",
+    "ingredients": ["156", "154"],
+    "isUnique": false
+  },
+  {
+    "result": "169",
+    "ingredients": ["158", "154"],
+    "isUnique": false
+  },
+  {
+    "result": "170",
+    "ingredients": ["160", "150"],
+    "isUnique": false
+  },
+  {
+    "result": "171",
+    "ingredients": ["Nochorin\n\n(Prairies Silencieuses)"],
+    "isUnique": false
+  },
+  {
+    "result": "172",
+    "ingredients": ["055", "116"],
+    "isUnique": true
+  },
+  {
+    "result": "173",
+    "ingredients": ["083", "dragon"],
+    "isUnique": true
+  },
+  {
+    "result": "174",
+    "ingredients": ["069", "demon"],
+    "isUnique": true
+  },
+  {
+    "result": "175",
+    "ingredients": ["163", "154"],
+    "isUnique": false
+  },
+  {
+    "result": "176",
+    "ingredients": ["Nochorin\n\n(Ville Déchue)"],
+    "isUnique": false
+  },
+  {
+    "result": "177",
+    "ingredients": ["164", "154"],
+    "isUnique": false
+  },
+  {
+    "result": "178",
+    "ingredients": ["054", "116"],
+    "isUnique": true
+  },
+  {
+    "result": "179",
+    "ingredients": ["Route des Maîtres\n\n(Ville déchue)"],
+    "isUnique": false
+  },
+  {
+    "result": "180",
+    "ingredients": ["168", "165"],
+    "isUnique": false
+  },
+  {
+    "result": "181",
+    "ingredients": ["169", "165"],
+    "isUnique": false
+  },
+  {
+    "result": "182",
+    "ingredients": ["066", "133"],
+    "isUnique": true
+  },
+  {
+    "result": "183",
+    "ingredients": ["151", "103"],
+    "isUnique": true
+  },
+  {
+    "result": "184",
+    "ingredients": ["174", "170"],
+    "isUnique": false
+  },
+  {
+    "result": "185",
+    "ingredients": ["168", "175"],
+    "isUnique": false
+  },
+  {
+    "result": "186",
+    "ingredients": ["175", "165"],
+    "isUnique": false
+  },
+  {
+    "result": "187",
+    "ingredients": ["177", "165"],
+    "isUnique": false
+  },
+  {
+    "result": "188",
+    "ingredients": ["161", "182"],
+    "isUnique": false
+  },
+  {
+    "result": "189",
+    "ingredients": ["179", "170"],
+    "isUnique": false
+  },
+  {
+    "result": "190",
+    "ingredients": ["180", "180"],
+    "isUnique": false
+  },
+  {
+    "result": "191",
+    "ingredients": ["043", "178"],
+    "isUnique": true
+  },
+  {
+    "result": "192",
+    "ingredients": ["185", "177"],
+    "isUnique": false
+  },
+  {
+    "result": "193",
+    "ingredients": ["185", "180"],
+    "isUnique": false
+  },
+  {
+    "result": "194",
+    "ingredients": ["133", "178"],
+    "isUnique": false
+  },
+  {
+    "result": "195",
+    "ingredients": ["185", "180"],
+    "isUnique": false
+  },
+  {
+    "result": "196",
+    "ingredients": ["186", "180"],
+    "isUnique": false
+  },
+  {
+    "result": "197",
+    "ingredients": ["186", "178"],
+    "isUnique": false
+  },
+  {
+    "result": "198",
+    "ingredients": ["188", "180"],
+    "isUnique": false
+  },
+  {
+    "result": "199",
+    "ingredients": ["088", "144"],
+    "isUnique": false
+  },
+  {
+    "result": "200",
+    "ingredients": ["Assault Métallique"],
+    "isUnique": false
+  },
+  {
+    "result": "203",
+    "ingredients": ["012", "201"],
+    "isUnique": true
+  },
+  {
+    "result": "204",
+    "ingredients": ["054", "202"],
+    "isUnique": true
+  },
+  {
+    "result": "205",
+    "ingredients": ["052", "201"],
+    "isUnique": true
+  },
+  {
+    "result": "206",
+    "ingredients": ["053", "201", "Rang C"],
+    "isUnique": true
+  },
+  {
+    "result": "207",
+    "ingredients": ["196", "188"],
+    "isUnique": false
+  },
+  {
+    "result": "208",
+    "ingredients": ["101", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "209",
+    "ingredients": ["199", "188"],
+    "isUnique": false
+  },
+  {
+    "result": "210",
+    "ingredients": ["109", "209"],
+    "isUnique": false
+  },
+  {
+    "result": "211",
+    "ingredients": ["001", "001", "001", "001"],
+    "isUnique": true
+  },
+  {
+    "result": "212",
+    "ingredients": ["125", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "213",
+    "ingredients": ["207", "196"],
+    "isUnique": false
+  },
+  {
+    "result": "214",
+    "ingredients": ["177", "089"],
+    "isUnique": true
+  },
+  {
+    "result": "215",
+    "ingredients": ["124", "124"],
+    "isUnique": true
+  },
+  {
+    "result": "216",
+    "ingredients": ["096", "179"],
+    "isUnique": true
+  },
+  {
+    "result": "217",
+    "ingredients": ["063", "148"],
+    "isUnique": true
+  },
+  {
+    "result": "218",
+    "ingredients": ["074", "074"],
+    "isUnique": true
+  },
+  {
+    "result": "219",
+    "ingredients": ["207", "192"],
+    "isUnique": false
+  },
+  {
+    "result": "220",
+    "ingredients": ["135", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "221",
+    "ingredients": ["Sinistre Toundra"],
+    "isUnique": false
+  },
+  {
+    "result": "222",
+    "ingredients": ["071", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "223",
+    "ingredients": ["042", "159"],
+    "isUnique": true
+  },
+  {
+    "result": "224",
+    "ingredients": ["211", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "225",
+    "ingredients": ["209", "200"],
+    "isUnique": false
+  },
+  {
+    "result": "226",
+    "ingredients": ["109", "109", "109", "109"],
+    "isUnique": true
+  },
+  {
+    "result": "227",
+    "ingredients": ["212", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "228",
+    "ingredients": ["216", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "229",
+    "ingredients": ["219", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "230",
+    "ingredients": ["218", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "231",
+    "ingredients": ["225", "210"],
+    "isUnique": false
+  },
+  {
+    "result": "232",
+    "ingredients": ["226", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "233",
+    "ingredients": ["223", "220"],
+    "isUnique": false
+  },
+  {
+    "result": "234",
+    "ingredients": ["227", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "235",
+    "ingredients": ["220", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "236",
+    "ingredients": ["221", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "237",
+    "ingredients": ["077", "077", "077", "077"],
+    "isUnique": true
+  },
+  {
+    "result": "238",
+    "ingredients": ["222", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "239",
+    "ingredients": ["223", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "240",
+    "ingredients": ["Nochorin\n\n(Volcan Ardent)"],
+    "isUnique": false
+  },
+  {
+    "result": "241",
+    "ingredients": ["230", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "242",
+    "ingredients": ["224", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "243",
+    "ingredients": ["231", "226"],
+    "isUnique": false
+  },
+  {
+    "result": "244",
+    "ingredients": ["234", "070"],
+    "isUnique": false
+  },
+  {
+    "result": "245",
+    "ingredients": ["007", "007", "007", "007"],
+    "isUnique": true
+  },
+  {
+    "result": "246",
+    "ingredients": ["Sombre Bastille"],
+    "isUnique": false
+  },
+  {
+    "result": "247",
+    "ingredients": ["237", "230"],
+    "isUnique": false
+  },
+  {
+    "result": "248",
+    "ingredients": ["238", "230"],
+    "isUnique": false
+  },
+  {
+    "result": "249",
+    "ingredients": ["115", "115", "115", "115"],
+    "isUnique": true
+  },
+  {
+    "result": "250",
+    "ingredients": ["238", "232"],
+    "isUnique": false
+  },
+  {
+    "result": "251",
+    "ingredients": ["039", "039", "039", "039"],
+    "isUnique": true
+  },
+  {
+    "result": "252",
+    "ingredients": ["241", "232"],
+    "isUnique": false
+  },
+  {
+    "result": "253",
+    "ingredients": ["242", "232"],
+    "isUnique": false
+  },
+  {
+    "result": "254",
+    "ingredients": ["243", "232"],
+    "isUnique": false
+  },
+  {
+    "result": "255",
+    "ingredients": ["231", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "256",
+    "ingredients": ["Volcan Ardent"],
+    "isUnique": false
+  },
+  {
+    "result": "257",
+    "ingredients": ["245", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "258",
+    "ingredients": ["107", "074"],
+    "isUnique": true
+  },
+  {
+    "result": "259",
+    "ingredients": ["248", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "260",
+    "ingredients": ["249", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "261",
+    "ingredients": ["251", "250"],
+    "isUnique": false
+  },
+  {
+    "result": "262",
+    "ingredients": ["250", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "263",
+    "ingredients": ["251", "250"],
+    "isUnique": false
+  },
+  {
+    "result": "264",
+    "ingredients": ["112", "131"],
+    "isUnique": true
+  },
+  {
+    "result": "265",
+    "ingredients": ["130", "192"],
+    "isUnique": true
+  },
+  {
+    "result": "266",
+    "ingredients": ["254", "244"],
+    "isUnique": false
+  },
+  {
+    "result": "267",
+    "ingredients": ["050", "050", "050", "050"],
+    "isUnique": true
+  },
+  {
+    "result": "268",
+    "ingredients": ["258", "250"],
+    "isUnique": false
+  },
+  {
+    "result": "269",
+    "ingredients": ["175", "175", "175", "175"],
+    "isUnique": true
+  },
+  {
+    "result": "270",
+    "ingredients": ["258", "256"],
+    "isUnique": false
+  },
+  {
+    "result": "271",
+    "ingredients": ["259", "258"],
+    "isUnique": false
+  },
+  {
+    "result": "272",
+    "ingredients": ["188", "188"],
+    "isUnique": true
+  },
+  {
+    "result": "273",
+    "ingredients": ["048", "048", "048", "048"],
+    "isUnique": true
+  },
+  {
+    "result": "274",
+    "ingredients": ["078", "025"],
+    "isUnique": true
+  },
+  {
+    "result": "275",
+    "ingredients": ["138", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "276",
+    "ingredients": ["265", "256"],
+    "isUnique": false
+  },
+  {
+    "result": "277",
+    "ingredients": ["267", "260"],
+    "isUnique": false
+  },
+  {
+    "result": "278",
+    "ingredients": ["159", "133"],
+    "isUnique": true
+  },
+  {
+    "result": "279",
+    "ingredients": ["147", "254"],
+    "isUnique": true
+  },
+  {
+    "result": "280",
+    "ingredients": ["256", "103"],
+    "isUnique": true
+  },
+  {
+    "result": "281",
+    "ingredients": ["267", "270"],
+    "isUnique": false
+  },
+  {
+    "result": "282",
+    "ingredients": ["272", "270"],
+    "isUnique": false
+  },
+  {
+    "result": "283",
+    "ingredients": ["271", "267"],
+    "isUnique": false
+  },
+  {
+    "result": "284",
+    "ingredients": ["151", "140"],
+    "isUnique": true
+  },
+  {
+    "result": "285",
+    "ingredients": ["179", "133", "208", "159"],
+    "isUnique": true
+  },
+  {
+    "result": "286",
+    "ingredients": ["274", "267"],
+    "isUnique": false
+  },
+  {
+    "result": "287",
+    "ingredients": ["224", "224", "224", "224"],
+    "isUnique": true
+  },
+  {
+    "result": "288",
+    "ingredients": ["200", "179"],
+    "isUnique": true
+  },
+  {
+    "result": "290",
+    "ingredients": ["077", "201"],
+    "isUnique": true
+  },
+  {
+    "result": "291",
+    "ingredients": ["192", "202"],
+    "isUnique": true
+  },
+  {
+    "result": "297",
+    "ingredients": ["231", "224"],
+    "isUnique": false
+  },
+  {
+    "result": "298",
+    "ingredients": ["284", "279"],
+    "isUnique": false
+  },
+  {
+    "result": "299",
+    "ingredients": ["Nochorin\n\n(Sombre Bastille)"],
+    "isUnique": false
+  },
+  {
+    "result": "300",
+    "ingredients": ["285", "279"],
+    "isUnique": false
+  },
+  {
+    "result": "301",
+    "ingredients": ["069", "252"],
+    "isUnique": true
+  },
+  {
+    "result": "302",
+    "ingredients": ["181", "246"],
+    "isUnique": true
+  },
+  {
+    "result": "303",
+    "ingredients": ["288", "279"],
+    "isUnique": false
+  },
+  {
+    "result": "304",
+    "ingredients": ["303", "305"],
+    "isUnique": false
+  },
+  {
+    "result": "305",
+    "ingredients": ["234", "116"],
+    "isUnique": true
+  },
+  {
+    "result": "306",
+    "ingredients": ["297", "282"],
+    "isUnique": false
+  },
+  {
+    "result": "307",
+    "ingredients": ["276", "211"],
+    "isUnique": false
+  },
+  {
+    "result": "308",
+    "ingredients": ["301", "286"],
+    "isUnique": false
+  },
+  {
+    "result": "309",
+    "ingredients": ["302", "286"],
+    "isUnique": false
+  },
+  {
+    "result": "310",
+    "ingredients": ["301", "276"],
+    "isUnique": false
+  },
+  {
+    "result": "311",
+    "ingredients": ["297", "281"],
+    "isUnique": false
+  },
+  {
+    "result": "312",
+    "ingredients": ["284", "266"],
+    "isUnique": true
+  },
+  {
+    "result": "313",
+    "ingredients": ["303", "300"],
+    "isUnique": false
+  },
+  {
+    "result": "314",
+    "ingredients": ["180", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "315",
+    "ingredients": ["300", "283"],
+    "isUnique": false
+  },
+  {
+    "result": "316",
+    "ingredients": ["297", "301"],
+    "isUnique": false
+  },
+  {
+    "result": "317",
+    "ingredients": ["305", "305"],
+    "isUnique": false
+  },
+  {
+    "result": "318",
+    "ingredients": ["251", "251", "251", "251"],
+    "isUnique": true
+  },
+  {
+    "result": "319",
+    "ingredients": ["305", "308"],
+    "isUnique": false
+  },
+  {
+    "result": "320",
+    "ingredients": ["309", "305"],
+    "isUnique": false
+  },
+  {
+    "result": "321",
+    "ingredients": ["310", "305"],
+    "isUnique": false
+  },
+  {
+    "result": "322",
+    "ingredients": ["311", "305"],
+    "isUnique": false
+  },
+  {
+    "result": "323",
+    "ingredients": ["144", "144"],
+    "isUnique": true
+  },
+  {
+    "result": "324",
+    "ingredients": ["313", "311"],
+    "isUnique": false
+  },
+  {
+    "result": "325",
+    "ingredients": ["177", "177", "177", "177"],
+    "isUnique": true
+  },
+  {
+    "result": "326",
+    "ingredients": ["221", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "327",
+    "ingredients": ["310", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "328",
+    "ingredients": ["024", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "329",
+    "ingredients": ["317", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "330",
+    "ingredients": ["318", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "331",
+    "ingredients": ["319", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "332",
+    "ingredients": ["320", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "333",
+    "ingredients": ["321", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "334",
+    "ingredients": ["158", "158", "158", "158"],
+    "isUnique": true
+  },
+  {
+    "result": "335",
+    "ingredients": ["323", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "336",
+    "ingredients": ["215", "215"],
+    "isUnique": true
+  },
+  {
+    "result": "337",
+    "ingredients": ["284", "185"],
+    "isUnique": true
+  },
+  {
+    "result": "338",
+    "ingredients": ["328", "317"],
+    "isUnique": false
+  },
+  {
+    "result": "339",
+    "ingredients": ["320", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "340",
+    "ingredients": ["200", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "341",
+    "ingredients": ["330", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "342",
+    "ingredients": ["331", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "343",
+    "ingredients": ["332", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "344",
+    "ingredients": ["333", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "345",
+    "ingredients": ["334", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "346",
+    "ingredients": ["125", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "347",
+    "ingredients": ["336", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "348",
+    "ingredients": ["337", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "349",
+    "ingredients": ["Route des Maîtres\n\n(Ville déchue)"],
+    "isUnique": false
+  },
+  {
+    "result": "350",
+    "ingredients": ["338", "329"],
+    "isUnique": false
+  },
+  {
+    "result": "351",
+    "ingredients": ["111", "347"],
+    "isUnique": false
+  },
+  {
+    "result": "352",
+    "ingredients": ["235", "116"],
+    "isUnique": true
+  },
+  {
+    "result": "353",
+    "ingredients": ["344", "339"],
+    "isUnique": false
+  },
+  {
+    "result": "354",
+    "ingredients": ["342", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "355",
+    "ingredients": ["343", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "356",
+    "ingredients": ["285", "281"],
+    "isUnique": true
+  },
+  {
+    "result": "357",
+    "ingredients": ["345", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "358",
+    "ingredients": ["346", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "359",
+    "ingredients": ["347", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "360",
+    "ingredients": ["323", "323"],
+    "isUnique": true
+  },
+  {
+    "result": "361",
+    "ingredients": ["350", "340"],
+    "isUnique": false
+  },
+  {
+    "result": "362",
+    "ingredients": ["351", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "363",
+    "ingredients": ["350", "353"],
+    "isUnique": false
+  },
+  {
+    "result": "364",
+    "ingredients": ["287", "287", "287", "287"],
+    "isUnique": true
+  },
+  {
+    "result": "365",
+    "ingredients": ["354", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "366",
+    "ingredients": ["355", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "367",
+    "ingredients": ["269", "269", "269", "269"],
+    "isUnique": true
+  },
+  {
+    "result": "368",
+    "ingredients": ["357", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "369",
+    "ingredients": ["358", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "370",
+    "ingredients": ["178", "269"],
+    "isUnique": true
+  },
+  {
+    "result": "371",
+    "ingredients": ["360", "351"],
+    "isUnique": false
+  },
+  {
+    "result": "372",
+    "ingredients": ["251", "246"],
+    "isUnique": true
+  },
+  {
+    "result": "373",
+    "ingredients": ["362", "362"],
+    "isUnique": false
+  },
+  {
+    "result": "374",
+    "ingredients": ["364", "362"],
+    "isUnique": false
+  },
+  {
+    "result": "375",
+    "ingredients": ["365", "362"],
+    "isUnique": false
+  },
+  {
+    "result": "376",
+    "ingredients": ["366", "360"],
+    "isUnique": false
+  },
+  {
+    "result": "377",
+    "ingredients": ["366", "362"],
+    "isUnique": false
+  },
+  {
+    "result": "378",
+    "ingredients": ["278", "278", "278", "278"],
+    "isUnique": true
+  },
+  {
+    "result": "379",
+    "ingredients": ["368", "362"],
+    "isUnique": false
+  },
+  {
+    "result": "380",
+    "ingredients": ["Coffres"],
+    "isUnique": false
+  },
+  {
+    "result": "381",
+    "ingredients": ["147", "202"],
+    "isUnique": true
+  },
+  {
+    "result": "382",
+    "ingredients": ["140", "203"],
+    "isUnique": true
+  },
+  {
+    "result": "383",
+    "ingredients": ["200", "290"],
+    "isUnique": true
+  },
+  {
+    "result": "384",
+    "ingredients": ["243", "202"],
+    "isUnique": true
+  },
+  {
+    "result": "385",
+    "ingredients": ["167", "206"],
+    "isUnique": true
+  },
+  {
+    "result": "386",
+    "ingredients": ["178", "204"],
+    "isUnique": true
+  },
+  {
+    "result": "387",
+    "ingredients": ["169", "205", "Rang A"],
+    "isUnique": true
+  },
+  {
+    "result": "392",
+    "ingredients": ["330", "369"],
+    "isUnique": true
+  },
+  {
+    "result": "393",
+    "ingredients": ["375", "360"],
+    "isUnique": true
+  },
+  {
+    "result": "394",
+    "ingredients": ["416", "372"],
+    "isUnique": false
+  },
+  {
+    "result": "395",
+    "ingredients": ["385", "380"],
+    "isUnique": false
+  },
+  {
+    "result": "396",
+    "ingredients": ["340", "448"],
+    "isUnique": false
+  },
+  {
+    "result": "397",
+    "ingredients": ["286", "286", "286", "286"],
+    "isUnique": true
+  },
+  {
+    "result": "398",
+    "ingredients": ["431", "364"],
+    "isUnique": false
+  },
+  {
+    "result": "399",
+    "ingredients": ["259", "259", "259", "259"],
+    "isUnique": true
+  },
+  {
+    "result": "400",
+    "ingredients": ["398", "156"],
+    "isUnique": false
+  },
+  {
+    "result": "401",
+    "ingredients": ["429", "371"],
+    "isUnique": false
+  },
+  {
+    "result": "402",
+    "ingredients": ["396", "366"],
+    "isUnique": false
+  },
+  {
+    "result": "403",
+    "ingredients": ["394", "371"],
+    "isUnique": false
+  },
+  {
+    "result": "404",
+    "ingredients": ["360", "360"],
+    "isUnique": true
+  },
+  {
+    "result": "405",
+    "ingredients": ["394", "373"],
+    "isUnique": false
+  },
+  {
+    "result": "406",
+    "ingredients": ["394", "374"],
+    "isUnique": false
+  },
+  {
+    "result": "407",
+    "ingredients": ["394", "375"],
+    "isUnique": false
+  },
+  {
+    "result": "408",
+    "ingredients": ["432", "401"],
+    "isUnique": true
+  },
+  {
+    "result": "409",
+    "ingredients": ["398", "373"],
+    "isUnique": false
+  },
+  {
+    "result": "410",
+    "ingredients": ["329", "329", "329", "329"],
+    "isUnique": true
+  },
+  {
+    "result": "411",
+    "ingredients": ["324", "342"],
+    "isUnique": true
+  },
+  {
+    "result": "412",
+    "ingredients": ["223", "270"],
+    "isUnique": true
+  },
+  {
+    "result": "413",
+    "ingredients": ["429", "347"],
+    "isUnique": false
+  },
+  {
+    "result": "414",
+    "ingredients": ["429", "253"],
+    "isUnique": false
+  },
+  {
+    "result": "415",
+    "ingredients": ["379", "236"],
+    "isUnique": true
+  },
+  {
+    "result": "416",
+    "ingredients": ["019", "429"],
+    "isUnique": false
+  },
+  {
+    "result": "417",
+    "ingredients": ["364", "364", "364", "364"],
+    "isUnique": true
+  },
+  {
+    "result": "418",
+    "ingredients": ["024", "431"],
+    "isUnique": false
+  },
+  {
+    "result": "419",
+    "ingredients": ["409", "400"],
+    "isUnique": false
+  },
+  {
+    "result": "420",
+    "ingredients": ["410", "400"],
+    "isUnique": false
+  },
+  {
+    "result": "421",
+    "ingredients": ["416", "405"],
+    "isUnique": false
+  },
+  {
+    "result": "422",
+    "ingredients": ["310", "310", "310", "310"],
+    "isUnique": true
+  },
+  {
+    "result": "423",
+    "ingredients": ["217", "239"],
+    "isUnique": true
+  },
+  {
+    "result": "424",
+    "ingredients": ["354", "172"],
+    "isUnique": true
+  },
+  {
+    "result": "425",
+    "ingredients": ["352", "210"],
+    "isUnique": true
+  },
+  {
+    "result": "426",
+    "ingredients": ["286", "222"],
+    "isUnique": true
+  },
+  {
+    "result": "427",
+    "ingredients": ["281", "281"],
+    "isUnique": true
+  },
+  {
+    "result": "428",
+    "ingredients": ["336", "336", "336", "336"],
+    "isUnique": true
+  },
+  {
+    "result": "429",
+    "ingredients": ["265", "335"],
+    "isUnique": true
+  },
+  {
+    "result": "430",
+    "ingredients": ["322", "417"],
+    "isUnique": true
+  },
+  {
+    "result": "431",
+    "ingredients": ["252", "417"],
+    "isUnique": true
+  },
+  {
+    "result": "432",
+    "ingredients": ["312", "407"],
+    "isUnique": true
+  },
+  {
+    "result": "433",
+    "ingredients": ["356", "280"],
+    "isUnique": true
+  },
+  {
+    "result": "434",
+    "ingredients": ["298", "417"],
+    "isUnique": true
+  },
+  {
+    "result": "435",
+    "ingredients": ["274", "344"],
+    "isUnique": true
+  },
+  {
+    "result": "436",
+    "ingredients": ["262", "262"],
+    "isUnique": true
+  },
+  {
+    "result": "437",
+    "ingredients": ["024", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "438",
+    "ingredients": ["272", "267"],
+    "isUnique": true
+  },
+  {
+    "result": "439",
+    "ingredients": ["301", "279"],
+    "isUnique": true
+  },
+  {
+    "result": "440",
+    "ingredients": ["312", "366"],
+    "isUnique": true
+  },
+  {
+    "result": "441",
+    "ingredients": ["285", "405"],
+    "isUnique": true
+  },
+  {
+    "result": "442",
+    "ingredients": ["398", "398"],
+    "isUnique": true
+  },
+  {
+    "result": "443",
+    "ingredients": ["345", "370"],
+    "isUnique": true
+  },
+  {
+    "result": "444",
+    "ingredients": ["221", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "445",
+    "ingredients": ["120", "370"],
+    "isUnique": true
+  },
+  {
+    "result": "446",
+    "ingredients": ["258", "262"],
+    "isUnique": true
+  },
+  {
+    "result": "447",
+    "ingredients": ["279", "344"],
+    "isUnique": true
+  },
+  {
+    "result": "448",
+    "ingredients": ["208", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "449",
+    "ingredients": ["200", "200", "200", "200"],
+    "isUnique": true
+  },
+  {
+    "result": "450",
+    "ingredients": ["226", "399"],
+    "isUnique": true
+  },
+  {
+    "result": "451",
+    "ingredients": ["347", "273"],
+    "isUnique": true
+  },
+  {
+    "result": "452",
+    "ingredients": ["320", "319"],
+    "isUnique": true
+  },
+  {
+    "result": "453",
+    "ingredients": ["264", "380"],
+    "isUnique": true
+  },
+  {
+    "result": "454",
+    "ingredients": ["257", "257", "257", "257"],
+    "isUnique": true
+  },
+  {
+    "result": "455",
+    "ingredients": ["379", "453"],
+    "isUnique": true
+  },
+  {
+    "result": "456",
+    "ingredients": ["327", "446"],
+    "isUnique": true
+  },
+  {
+    "result": "457",
+    "ingredients": ["450", "438", "440", "432"],
+    "isUnique": true
+  },
+  {
+    "result": "458",
+    "ingredients": ["306", "299", "306", "299"],
+    "isUnique": true
+  },
+  {
+    "result": "459",
+    "ingredients": ["433", "440"],
+    "isUnique": true
+  },
+  {
+    "result": "460",
+    "ingredients": ["425", "439"],
+    "isUnique": true
+  },
+  {
+    "result": "461",
+    "ingredients": ["428", "436"],
+    "isUnique": true
+  },
+  {
+    "result": "462",
+    "ingredients": ["009", "481"],
+    "isUnique": true
+  },
+  {
+    "result": "465",
+    "ingredients": ["335", "291"],
+    "isUnique": true
+  },
+  {
+    "result": "466",
+    "ingredients": ["135", "463"],
+    "isUnique": true
+  },
+  {
+    "result": "467",
+    "ingredients": ["279", "381"],
+    "isUnique": true
+  },
+  {
+    "result": "468",
+    "ingredients": ["266", "382"],
+    "isUnique": true
+  },
+  {
+    "result": "469",
+    "ingredients": ["347", "464"],
+    "isUnique": true
+  },
+  {
+    "result": "470",
+    "ingredients": ["208", "463", "Rang S"],
+    "isUnique": true
+  },
+  {
+    "result": "472",
+    "ingredients": ["413", "385"],
+    "isUnique": true
+  },
+  {
+    "result": "473",
+    "ingredients": ["370", "386"],
+    "isUnique": true
+  },
+  {
+    "result": "474",
+    "ingredients": ["341", "387"],
+    "isUnique": true
+  },
+  {
+    "result": "475",
+    "ingredients": ["396", "464"],
+    "isUnique": true
+  },
+  {
+    "result": "488",
+    "ingredients": ["486", "487"],
+    "isUnique": true
+  },
+  {
+    "result": "498",
+    "ingredients": ["288", "444", "346", "437"],
+    "isUnique": true
+  },
+  {
+    "result": "499",
+    "ingredients": ["Coffres"],
+    "isUnique": false
+  },
+  {
+    "result": "500",
+    "ingredients": ["400", "397"],
+    "isUnique": true
+  },
+  {
+    "result": "501",
+    "ingredients": ["447", "301"],
+    "isUnique": true
+  },
+  {
+    "result": "502",
+    "ingredients": ["366", "314"],
+    "isUnique": true
+  },
+  {
+    "result": "503",
+    "ingredients": ["338", "415"],
+    "isUnique": true
+  },
+  {
+    "result": "504",
+    "ingredients": ["319", "394"],
+    "isUnique": true
+  },
+  {
+    "result": "505",
+    "ingredients": ["441", "256"],
+    "isUnique": true
+  },
+  {
+    "result": "506",
+    "ingredients": ["408", "401"],
+    "isUnique": true
+  },
+  {
+    "result": "507",
+    "ingredients": ["398", "422"],
+    "isUnique": true
+  },
+  {
+    "result": "508",
+    "ingredients": ["285", "323", "285", "323"],
+    "isUnique": true
+  },
+  {
+    "result": "509",
+    "ingredients": ["430", "430", "430", "430"],
+    "isUnique": true
+  },
+  {
+    "result": "510",
+    "ingredients": ["425", "414"],
+    "isUnique": true
+  },
+  {
+    "result": "511",
+    "ingredients": ["304", "415"],
+    "isUnique": true
+  },
+  {
+    "result": "512",
+    "ingredients": ["371", "507"],
+    "isUnique": true
+  },
+  {
+    "result": "513",
+    "ingredients": ["092", "340", "092", "340"],
+    "isUnique": true
+  },
+  {
+    "result": "514",
+    "ingredients": ["417", "417", "417", "417"],
+    "isUnique": true
+  },
+  {
+    "result": "515",
+    "ingredients": ["245", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "516",
+    "ingredients": ["301", "431"],
+    "isUnique": true
+  },
+  {
+    "result": "517",
+    "ingredients": ["297", "418"],
+    "isUnique": true
+  },
+  {
+    "result": "518",
+    "ingredients": ["412", "449", "412", "449"],
+    "isUnique": true
+  },
+  {
+    "result": "519",
+    "ingredients": ["448", "418"],
+    "isUnique": true
+  },
+  {
+    "result": "520",
+    "ingredients": ["319", "319", "319", "319"],
+    "isUnique": true
+  },
+  {
+    "result": "521",
+    "ingredients": ["434", "451"],
+    "isUnique": true
+  },
+  {
+    "result": "522",
+    "ingredients": ["367", "367", "367", "367"],
+    "isUnique": true
+  },
+  {
+    "result": "523",
+    "ingredients": ["319", "374"],
+    "isUnique": true
+  },
+  {
+    "result": "524",
+    "ingredients": ["406", "517"],
+    "isUnique": true
+  },
+  {
+    "result": "525",
+    "ingredients": ["450", "415"],
+    "isUnique": true
+  },
+  {
+    "result": "526",
+    "ingredients": ["507", "507"],
+    "isUnique": true
+  },
+  {
+    "result": "527",
+    "ingredients": ["396", "341"],
+    "isUnique": true
+  },
+  {
+    "result": "528",
+    "ingredients": ["427", "422"],
+    "isUnique": true
+  },
+  {
+    "result": "529",
+    "ingredients": ["431", "518"],
+    "isUnique": true
+  },
+  {
+    "result": "530",
+    "ingredients": ["513", "502"],
+    "isUnique": true
+  },
+  {
+    "result": "531",
+    "ingredients": ["Apparait après la défaite d'une invasion"],
+    "isUnique": false
+  },
+  {
+    "result": "532",
+    "ingredients": ["Chateau Démoniaque"],
+    "isUnique": false
+  },
+  {
+    "result": "534",
+    "ingredients": ["Route des Maîtres\n\n(Sinistre Toundra)"],
+    "isUnique": false
+  },
+  {
+    "result": "535",
+    "ingredients": ["456", "518"],
+    "isUnique": true
+  },
+  {
+    "result": "536",
+    "ingredients": ["376", "288"],
+    "isUnique": true
+  },
+  {
+    "result": "537",
+    "ingredients": ["478", "468", "484", "498"],
+    "isUnique": true
+  },
+  {
+    "result": "539",
+    "ingredients": ["Route des Maîtres\n\n(Volcan Ardent)"],
+    "isUnique": false
+  },
+  {
+    "result": "540",
+    "ingredients": ["516", "505", "501", "530"],
+    "isUnique": true
+  },
+  {
+    "result": "541",
+    "ingredients": ["311", "285"],
+    "isUnique": true
+  },
+  {
+    "result": "542",
+    "ingredients": ["362", "418"],
+    "isUnique": true
+  },
+  {
+    "result": "543",
+    "ingredients": ["451", "334"],
+    "isUnique": true
+  },
+  {
+    "result": "544",
+    "ingredients": ["457", "458"],
+    "isUnique": true
+  },
+  {
+    "result": "545",
+    "ingredients": ["389", "389", "389", "389"],
+    "isUnique": true
+  },
+  {
+    "result": "546",
+    "ingredients": ["402", "541"],
+    "isUnique": true
+  },
+  {
+    "result": "547",
+    "ingredients": ["508", "517"],
+    "isUnique": true
+  },
+  {
+    "result": "548",
+    "ingredients": ["419", "483"],
+    "isUnique": true
+  },
+  {
+    "result": "549",
+    "ingredients": ["Finir la quête de Crow et le vaincre"],
+    "isUnique": false
+  },
+  {
+    "result": "550",
+    "ingredients": ["536", "483"],
+    "isUnique": true
+  },
+  {
+    "result": "553",
+    "ingredients": ["454", "416"],
+    "isUnique": true
+  },
+  {
+    "result": "554",
+    "ingredients": ["432", "502"],
+    "isUnique": true
+  },
+  {
+    "result": "555",
+    "ingredients": ["415", "361"],
+    "isUnique": true
+  },
+  {
+    "result": "556",
+    "ingredients": ["418", "509"],
+    "isUnique": true
+  },
+  {
+    "result": "557",
+    "ingredients": ["504", "412"],
+    "isUnique": true
+  },
+  {
+    "result": "558",
+    "ingredients": ["504", "518"],
+    "isUnique": true
+  },
+  {
+    "result": "559",
+    "ingredients": ["504", "498"],
+    "isUnique": true
+  },
+  {
+    "result": "560",
+    "ingredients": ["452", "418"],
+    "isUnique": true
+  },
+  {
+    "result": "561",
+    "ingredients": ["506", "520"],
+    "isUnique": true
+  },
+  {
+    "result": "562",
+    "ingredients": ["428", "422"],
+    "isUnique": true
+  },
+  {
+    "result": "563",
+    "ingredients": ["424", "424", "424", "424"],
+    "isUnique": true
+  },
+  {
+    "result": "564",
+    "ingredients": ["542", "504"],
+    "isUnique": true
+  },
+  {
+    "result": "565",
+    "ingredients": ["445", "498"],
+    "isUnique": true
+  },
+  {
+    "result": "566",
+    "ingredients": ["409", "514"],
+    "isUnique": true
+  },
+  {
+    "result": "567",
+    "ingredients": ["395", "540"],
+    "isUnique": true
+  },
+  {
+    "result": "568",
+    "ingredients": ["429", "416"],
+    "isUnique": true
+  },
+  {
+    "result": "569",
+    "ingredients": ["521", "526"],
+    "isUnique": true
+  },
+  {
+    "result": "570",
+    "ingredients": ["564", "553"],
+    "isUnique": true
+  },
+  {
+    "result": "571",
+    "ingredients": ["562", "565"],
+    "isUnique": true
+  },
+  {
+    "result": "572",
+    "ingredients": ["563", "504"],
+    "isUnique": true
+  },
+  {
+    "result": "573",
+    "ingredients": ["561", "556"],
+    "isUnique": true
+  },
+  {
+    "result": "574",
+    "ingredients": ["508", "519", "508", "519"],
+    "isUnique": true
+  },
+  {
+    "result": "576",
+    "ingredients": ["Route des Maîtres (Sombre Bastille)"],
+    "isUnique": false
+  },
+  {
+    "result": "577",
+    "ingredients": ["Route des Maîtres (Route Spirituelle)"],
+    "isUnique": false
+  },
+  {
+    "result": "578",
+    "ingredients": ["Route des Maîtres (Sinistre Toundra)"],
+    "isUnique": false
+  },
+  {
+    "result": "581",
+    "ingredients": ["520", "463"],
+    "isUnique": true
+  },
+  {
+    "result": "582",
+    "ingredients": ["426", "466"],
+    "isUnique": true
+  },
+  {
+    "result": "583",
+    "ingredients": ["448", "470"],
+    "isUnique": true
+  },
+  {
+    "result": "584",
+    "ingredients": ["543", "469"],
+    "isUnique": true
+  },
+  {
+    "result": "585",
+    "ingredients": ["311", "471"],
+    "isUnique": true
+  },
+  {
+    "result": "586",
+    "ingredients": ["584", "583", "475", "338"],
+    "isUnique": true
+  },
+  {
+    "result": "587",
+    "ingredients": ["581", "585", "582", "580"],
+    "isUnique": true
+  },
+  {
+    "result": "588",
+    "ingredients": ["586", "515"],
+    "isUnique": true
+  },
+  {
+    "result": "589",
+    "ingredients": ["587", "553"],
+    "isUnique": true
+  },
+  {
+    "result": "590",
+    "ingredients": ["586", "317"],
+    "isUnique": true
+  },
+  {
+    "result": "591",
+    "ingredients": ["587", "524"],
+    "isUnique": true
+  },
+  {
+    "result": "592",
+    "ingredients": ["Disque"],
+    "isUnique": false
+  },
+  {
+    "result": "593",
+    "ingredients": ["Disque"],
+    "isUnique": false
+  },
+  {
+    "result": "594",
+    "ingredients": ["Disque"],
+    "isUnique": false
+  },
+  {
+    "result": "595",
+    "ingredients": ["594", "652", "594", "654"],
+    "isUnique": true
+  },
+  {
+    "result": "596",
+    "ingredients": ["594", "697", "594", "706"],
+    "isUnique": true
+  },
+  {
+    "result": "597",
+    "ingredients": ["529", "506"],
+    "isUnique": true
+  },
+  {
+    "result": "598",
+    "ingredients": ["500", "528"],
+    "isUnique": true
+  },
+  {
+    "result": "599",
+    "ingredients": ["529", "540"],
+    "isUnique": true
+  },
+  {
+    "result": "600",
+    "ingredients": ["542", "556"],
+    "isUnique": true
+  },
+  {
+    "result": "601",
+    "ingredients": ["525", "555"],
+    "isUnique": true
+  },
+  {
+    "result": "602",
+    "ingredients": ["503", "556"],
+    "isUnique": true
+  },
+  {
+    "result": "603",
+    "ingredients": ["557", "559", "558", "524"],
+    "isUnique": true
+  },
+  {
+    "result": "604",
+    "ingredients": ["531", "535", "532", "534"],
+    "isUnique": true
+  },
+  {
+    "result": "605",
+    "ingredients": ["531", "601"],
+    "isUnique": true
+  },
+  {
+    "result": "606",
+    "ingredients": ["548", "599"],
+    "isUnique": true
+  },
+  {
+    "result": "607",
+    "ingredients": ["421", "523"],
+    "isUnique": true
+  },
+  {
+    "result": "608",
+    "ingredients": ["353", "568"],
+    "isUnique": true
+  },
+  {
+    "result": "609",
+    "ingredients": ["420", "545"],
+    "isUnique": true
+  },
+  {
+    "result": "610",
+    "ingredients": ["600", "549"],
+    "isUnique": true
+  },
+  {
+    "result": "611",
+    "ingredients": ["610", "442"],
+    "isUnique": true
+  },
+  {
+    "result": "612",
+    "ingredients": ["657", "595"],
+    "isUnique": true
+  },
+  {
+    "result": "613",
+    "ingredients": ["459", "602"],
+    "isUnique": true
+  },
+  {
+    "result": "614",
+    "ingredients": ["460", "597"],
+    "isUnique": true
+  },
+  {
+    "result": "615",
+    "ingredients": ["461", "598"],
+    "isUnique": true
+  },
+  {
+    "result": "616",
+    "ingredients": ["570", "598"],
+    "isUnique": true
+  },
+  {
+    "result": "617",
+    "ingredients": ["375", "527"],
+    "isUnique": true
+  },
+  {
+    "result": "618",
+    "ingredients": ["565", "554"],
+    "isUnique": true
+  },
+  {
+    "result": "619",
+    "ingredients": ["567", "617"],
+    "isUnique": true
+  },
+  {
+    "result": "620",
+    "ingredients": ["572", "375"],
+    "isUnique": true
+  },
+  {
+    "result": "621",
+    "ingredients": ["571", "566"],
+    "isUnique": true
+  },
+  {
+    "result": "622",
+    "ingredients": ["547", "498", "547", "498"],
+    "isUnique": true
+  },
+  {
+    "result": "623",
+    "ingredients": ["Ciel"],
+    "isUnique": false
+  },
+  {
+    "result": "627",
+    "ingredients": ["Route des Maîtres (Plaines Silencieuses)"],
+    "isUnique": false
+  },
+  {
+    "result": "628",
+    "ingredients": ["Route des Maîtres (Route Spirituelle)"],
+    "isUnique": false
+  },
+  {
+    "result": "629",
+    "ingredients": ["Route des Maîtres (Sombre Bastille)"],
+    "isUnique": false
+  },
+  {
+    "result": "630",
+    "ingredients": ["293", "530"],
+    "isUnique": true
+  },
+  {
+    "result": "631",
+    "ingredients": ["516", "529"],
+    "isUnique": true
+  },
+  {
+    "result": "632",
+    "ingredients": ["518", "498", "518", "498"],
+    "isUnique": true
+  },
+  {
+    "result": "633",
+    "ingredients": ["574", "622"],
+    "isUnique": true
+  },
+  {
+    "result": "634",
+    "ingredients": ["620", "599"],
+    "isUnique": true
+  },
+  {
+    "result": "635",
+    "ingredients": ["569", "541"],
+    "isUnique": true
+  },
+  {
+    "result": "636",
+    "ingredients": ["568", "621"],
+    "isUnique": true
+  },
+  {
+    "result": "637",
+    "ingredients": ["569", "543"],
+    "isUnique": true
+  },
+  {
+    "result": "638",
+    "ingredients": ["566", "618"],
+    "isUnique": true
+  },
+  {
+    "result": "639",
+    "ingredients": ["617", "620"],
+    "isUnique": true
+  },
+  {
+    "result": "640",
+    "ingredients": ["636", "638", "639", "637"],
+    "isUnique": true
+  },
+  {
+    "result": "641",
+    "ingredients": ["597", "600"],
+    "isUnique": true
+  },
+  {
+    "result": "643",
+    "ingredients": ["632", "477", "533", "485"],
+    "isUnique": true
+  },
+  {
+    "result": "646",
+    "ingredients": ["588", "590", "589", "591"],
+    "isUnique": true
+  },
+  {
+    "result": "647",
+    "ingredients": ["604", "460", "461", "459"],
+    "isUnique": true
+  },
+  {
+    "result": "648",
+    "ingredients": ["539", "552", "609", "575"],
+    "isUnique": true
+  },
+  {
+    "result": "650",
+    "ingredients": ["605", "603"],
+    "isUnique": false
+  },
+  {
+    "result": "651",
+    "ingredients": ["542", "541", "543", "606"],
+    "isUnique": false
+  },
+  {
+    "result": "652",
+    "ingredients": ["391", "544", "607", "523"],
+    "isUnique": false
+  },
+  {
+    "result": "653",
+    "ingredients": ["526", "584", "527", "583"],
+    "isUnique": true
+  },
+  {
+    "result": "654",
+    "ingredients": ["505", "504"],
+    "isUnique": true
+  },
+  {
+    "result": "655",
+    "ingredients": ["510", "619", "509", "634"],
+    "isUnique": true
+  },
+  {
+    "result": "656",
+    "ingredients": ["573", "616"],
+    "isUnique": true
+  },
+  {
+    "result": "657",
+    "ingredients": ["612", "641"],
+    "isUnique": false
+  },
+  {
+    "result": "664",
+    "ingredients": ["490", "650"],
+    "isUnique": false
+  },
+  {
+    "result": "665",
+    "ingredients": ["491", "651"],
+    "isUnique": true
+  },
+  {
+    "result": "666",
+    "ingredients": ["492", "652"],
+    "isUnique": true
+  },
+  {
+    "result": "667",
+    "ingredients": ["493", "653"],
+    "isUnique": true
+  },
+  {
+    "result": "668",
+    "ingredients": ["494", "654"],
+    "isUnique": true
+  },
+  {
+    "result": "669",
+    "ingredients": ["495", "657"],
+    "isUnique": true
+  },
+  {
+    "result": "670",
+    "ingredients": ["496", "656"],
+    "isUnique": true
+  },
+  {
+    "result": "671",
+    "ingredients": ["497", "655"],
+    "isUnique": true
+  },
+  {
+    "result": "672",
+    "ingredients": ["664", "646"],
+    "isUnique": false
+  },
+  {
+    "result": "673",
+    "ingredients": ["540", "664"],
+    "isUnique": true
+  },
+  {
+    "result": "674",
+    "ingredients": ["489", "482", "540", "091"],
+    "isUnique": false
+  },
+  {
+    "result": "675",
+    "ingredients": ["674", "642", "550", "537"],
+    "isUnique": true
+  },
+  {
+    "result": "676",
+    "ingredients": ["674", "643", "672", "488"],
+    "isUnique": true
+  },
+  {
+    "result": "677",
+    "ingredients": ["676", "538"],
+    "isUnique": false
+  },
+  {
+    "result": "678",
+    "ingredients": ["657", "623"],
+    "isUnique": true
+  },
+  {
+    "result": "679",
+    "ingredients": ["645", "660", "644", "675"],
+    "isUnique": true
+  },
+  {
+    "result": "680",
+    "ingredients": ["632", "633"],
+    "isUnique": true
+  },
+  {
+    "result": "681",
+    "ingredients": ["646", "655"],
+    "isUnique": true
+  },
+  {
+    "result": "682",
+    "ingredients": ["664", "668", "666", "670"],
+    "isUnique": false
+  },
+  {
+    "result": "683",
+    "ingredients": ["665", "669", "667", "671"],
+    "isUnique": true
+  },
+  {
+    "result": "685",
+    "ingredients": ["673", "390"],
+    "isUnique": false
+  },
+  {
+    "result": "686",
+    "ingredients": ["650", "685"],
+    "isUnique": true
+  },
+  {
+    "result": "687",
+    "ingredients": ["656", "685"],
+    "isUnique": true
+  },
+  {
+    "result": "690",
+    "ingredients": ["647", "608", "679", "546"],
+    "isUnique": true
+  },
+  {
+    "result": "691",
+    "ingredients": ["689", "648", "662", "650"],
+    "isUnique": true
+  },
+  {
+    "result": "692",
+    "ingredients": ["390", "526", "653", "535"],
+    "isUnique": false
+  },
+  {
+    "result": "693",
+    "ingredients": ["692", "292"],
+    "isUnique": true
+  },
+  {
+    "result": "694",
+    "ingredients": ["527", "602"],
+    "isUnique": true
+  },
+  {
+    "result": "695",
+    "ingredients": ["686", "687"],
+    "isUnique": true
+  },
+  {
+    "result": "696",
+    "ingredients": ["680", "678"],
+    "isUnique": true
+  },
+  {
+    "result": "697",
+    "ingredients": ["677", "695"],
+    "isUnique": true
+  },
+  {
+    "result": "698",
+    "ingredients": ["681", "694"],
+    "isUnique": true
+  },
+  {
+    "result": "699",
+    "ingredients": ["651", "652"],
+    "isUnique": true
+  },
+  {
+    "result": "700",
+    "ingredients": ["692", "699"],
+    "isUnique": true
+  },
+  {
+    "result": "701",
+    "ingredients": ["700", "696"],
+    "isUnique": true
+  },
+  {
+    "result": "702",
+    "ingredients": ["650", "611", "657", "588"],
+    "isUnique": true
+  },
+  {
+    "result": "703",
+    "ingredients": ["651", "613", "656", "589"],
+    "isUnique": true
+  },
+  {
+    "result": "704",
+    "ingredients": ["652", "615", "655", "590"],
+    "isUnique": true
+  },
+  {
+    "result": "705",
+    "ingredients": ["653", "614", "654", "591"],
+    "isUnique": true
+  },
+  {
+    "result": "706",
+    "ingredients": ["704", "705", "703", "702"],
+    "isUnique": false
+  },
+  {
+    "result": "707",
+    "ingredients": ["698", "706"],
+    "isUnique": true
+  },
+  {
+    "result": "708",
+    "ingredients": ["701", "697"],
+    "isUnique": true
+  },
+  {
+    "result": "710",
+    "ingredients": ["640", "709", "693", "649"],
+    "isUnique": true
+  },
+  {
+    "result": "711",
+    "ingredients": ["707", "708"],
+    "isUnique": true
+  },
+  {
+    "result": "712",
+    "ingredients": ["690", "691", "647", "663"],
+    "isUnique": true
+  },
+  {
+    "result": "713",
+    "ingredients": ["Terminer la quête du Granstark"],
+    "isUnique": false
+  },
+  {
+    "result": "714",
+    "ingredients": [
+      "Le vaincre 5 fois (la fois avant le générique de fin ne compte pas)"
+    ],
+    "isUnique": false
+  },
+  {
+    "result": "715",
+    "ingredients": ["705", "710", "714", "712"],
+    "isUnique": true
+  },
+  {
+    "result": "716",
+    "ingredients": ["713", "714", "544", "627"],
+    "isUnique": true
+  },
+  {
+    "result": "717",
+    "ingredients": ["711", "714", "688", "548"],
+    "isUnique": true
+  },
+  {
+    "result": "718",
+    "ingredients": ["682", "683"],
+    "isUnique": true
+  },
+  {
+    "result": "719",
+    "ingredients": ["718", "716", "715", "717"],
+    "isUnique": true
+  },
+  {
+    "result": "726",
+    "ingredients": ["723", "725", "724", "719"],
+    "isUnique": true
+  }
+]
