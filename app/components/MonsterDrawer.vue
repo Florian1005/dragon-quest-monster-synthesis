@@ -13,7 +13,7 @@
           class="p-4 border-b flex justify-between items-center bg-gray-50 dark:bg-gray-800"
         >
           <div class="flex items-center gap-4">
-            <img
+            <NuxtImg
               :src="monster.image"
               class="w-10 h-10 object-contain"
               v-if="monster.image"
@@ -53,7 +53,7 @@
               class="flex items-center justify-between border-b dark:border-gray-800 py-3 last:border-0"
             >
               <div class="flex items-center gap-3">
-                <img
+                <NuxtImg
                   v-if="getMonster(id)?.image"
                   :src="getMonster(id)?.image"
                   class="w-10 h-10 object-contain bg-white rounded shadow-sm"
@@ -104,7 +104,7 @@
                         :key="idx"
                         class="flex items-center gap-2 bg-white dark:bg-gray-900 p-1.5 rounded-lg border dark:border-gray-700 shadow-sm min-w-[120px]"
                       >
-                        <img
+                        <NuxtImg
                           :src="getMonster(pId)?.image"
                           class="w-8 h-8 object-contain"
                         />
@@ -129,7 +129,7 @@
                     <div
                       class="flex items-center gap-2 bg-primary/5 p-1.5 rounded-lg border border-primary/20 min-w-[120px]"
                     >
-                      <img
+                      <NuxtImg
                         :src="monster?.image"
                         class="w-8 h-8 object-contain opacity-60"
                       />
@@ -155,7 +155,7 @@
                     <div
                       class="flex items-center gap-3 bg-primary/10 p-2 rounded-lg border border-primary/30 min-w-[150px] shadow-sm ring-1 ring-primary/20"
                     >
-                      <img
+                      <NuxtImg
                         :src="getMonster(usage.resultId)?.image"
                         class="w-10 h-10 object-contain"
                       />

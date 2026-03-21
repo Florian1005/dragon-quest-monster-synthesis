@@ -1,7 +1,13 @@
 import { defineNuxtConfig } from "nuxt/config";
 
 export default defineNuxtConfig({
-  modules: ["@nuxt/ui"],
+  app: {
+    baseURL: "/dragon-quest-monster-synthesis/",
+    buildAssetsDir: "assets",
+  },
+
+  ssr: false,
+  modules: ["@nuxt/ui", "@nuxt/image"],
 
   css: ["~/assets/css/main.css"],
 

@@ -15,7 +15,7 @@
         <div
           class="px-2 py-1 shadow-md rounded-md bg-white border-2 border-primary-500 flex flex-col items-center min-w-[80px]"
         >
-          <img
+          <NuxtImg
             :src="data.image"
             class="w-12 h-12 object-contain"
             v-if="data.image"

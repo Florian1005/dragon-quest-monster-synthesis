@@ -13,7 +13,7 @@
     <div
       class="absolute top-1 right-1 z-10 w-6 h-6 p-1 bg-white/90 dark:bg-gray-800/90 rounded-full shadow-sm ring-1 ring-black/5"
     >
-      <img
+      <NuxtImg
         :src="`/img/dqmj3pro/types/${monster.type}.png`"
         :alt="monster.type"
         class="w-full h-full object-contain"

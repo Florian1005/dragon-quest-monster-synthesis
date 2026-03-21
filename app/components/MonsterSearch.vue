@@ -67,7 +67,7 @@ watch(selectedRank, (val) => {
 
       <USelectMenu v-model="selectedType" :items="types" class="w-56" size="lg">
         <template #leading>
-          <img
+          <NuxtImg
             v-if="selectedType?.icon"
             :src="selectedType?.icon"
             class="w-5 h-5 object-contain"
@@ -76,7 +76,7 @@ watch(selectedRank, (val) => {
 
         <template #item-label="{ item }">
           <div class="flex items-center gap-2">
-            <img
+            <NuxtImg
               v-if="item.icon"
               :src="item.icon"
               class="w-5 h-5 object-contain"
