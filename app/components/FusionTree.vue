@@ -15,8 +15,8 @@
         <div
           class="px-2 py-1 shadow-md rounded-md bg-white border-2 border-primary-500 flex flex-col items-center min-w-[80px]"
         >
-          <NuxtImg
-            :src="data.image"
+          <img
+            :src="resolvePath(data.image)"
             class="w-12 h-12 object-contain"
             v-if="data.image"
           />
@@ -46,6 +46,7 @@ import { useMonsters } from "~/composable/useMonster";
 import type { Monster } from "~/interfaces/monster.interface";
 import { useRecipes } from "~/composable/useRecipes";
 import dagre from "dagre";
+import { useAsset } from "~/composable/useAsset";
 
 const props = defineProps<{ monster: Monster }>();
 
@@ -71,6 +72,7 @@ const layoutNodes = (nodes: any[], edges: any[]) => {
     return { ...node, position: { x, y } };
   });
 };
+const { resolvePath } = useAsset();
 
 const buildTree = (monsterId: string) => {
   const newNodes: any[] = [];

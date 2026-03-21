@@ -13,8 +13,8 @@
           class="p-4 border-b flex justify-between items-center bg-gray-50 dark:bg-gray-800"
         >
           <div class="flex items-center gap-4">
-            <NuxtImg
-              :src="monster.image"
+            <img
+              :src="resolvePath(monster.image)"
               class="w-10 h-10 object-contain"
               v-if="monster.image"
             />
@@ -53,9 +53,9 @@
               class="flex items-center justify-between border-b dark:border-gray-800 py-3 last:border-0"
             >
               <div class="flex items-center gap-3">
-                <NuxtImg
+                <img
                   v-if="getMonster(id)?.image"
-                  :src="getMonster(id)?.image"
+                  :src="resolvePath(getMonster(id)?.image!)"
                   class="w-10 h-10 object-contain bg-white rounded shadow-sm"
                 />
                 <div class="flex flex-col">
@@ -104,8 +104,8 @@
                         :key="idx"
                         class="flex items-center gap-2 bg-white dark:bg-gray-900 p-1.5 rounded-lg border dark:border-gray-700 shadow-sm min-w-[120px]"
                       >
-                        <NuxtImg
-                          :src="getMonster(pId)?.image"
+                        <img
+                          :src="resolvePath(getMonster(pId)?.image!)"
                           class="w-8 h-8 object-contain"
                         />
                         <div class="flex flex-col min-w-0">
@@ -129,8 +129,8 @@
                     <div
                       class="flex items-center gap-2 bg-primary/5 p-1.5 rounded-lg border border-primary/20 min-w-[120px]"
                     >
-                      <NuxtImg
-                        :src="monster?.image"
+                      <img
+                        :src="resolvePath(monster?.image)"
                         class="w-8 h-8 object-contain opacity-60"
                       />
                       <div class="flex flex-col">
@@ -155,8 +155,8 @@
                     <div
                       class="flex items-center gap-3 bg-primary/10 p-2 rounded-lg border border-primary/30 min-w-[150px] shadow-sm ring-1 ring-primary/20"
                     >
-                      <NuxtImg
-                        :src="getMonster(usage.resultId)?.image"
+                      <img
+                        :src="resolvePath(getMonster(usage.resultId)?.image!)"
                         class="w-10 h-10 object-contain"
                       />
                       <div class="flex flex-col">
@@ -196,6 +196,7 @@
 
 <script setup lang="ts">
 import { computed, ref, onMounted } from "vue";
+import { useAsset } from "~/composable/useAsset";
 import { useMonsters } from "~/composable/useMonster";
 import type { Monster } from "~/interfaces/monster.interface";
 import type { Recipe } from "~/interfaces/recipe.interface";
@@ -207,6 +208,7 @@ const props = defineProps<{
 
 const emit = defineEmits(["update:modelValue"]);
 const { getMonster } = useMonsters();
+const { resolvePath } = useAsset();
 const recipes = ref<Recipe[]>([]);
 
 const tabs = [

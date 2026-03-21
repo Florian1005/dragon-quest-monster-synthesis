@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import { ref, watch } from "vue";
+import { useAsset } from "~/composable/useAsset";
+
+const { resolvePath } = useAsset();
 
 const props = defineProps<{
   modelValue: string;
@@ -67,18 +70,18 @@ watch(selectedRank, (val) => {
 
       <USelectMenu v-model="selectedType" :items="types" class="w-56" size="lg">
         <template #leading>
-          <NuxtImg
+          <img
             v-if="selectedType?.icon"
-            :src="selectedType?.icon"
+            :src="resolvePath(selectedType?.icon)"
             class="w-5 h-5 object-contain"
           />
         </template>
 
         <template #item-label="{ item }">
           <div class="flex items-center gap-2">
-            <NuxtImg
+            <img
               v-if="item.icon"
-              :src="item.icon"
+              :src="resolvePath(item.icon)"
               class="w-5 h-5 object-contain"
             />
             <span>{{ item.label }}</span>
