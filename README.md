@@ -1,0 +1,1 @@
+# dragon-quest-monster-synthesis
