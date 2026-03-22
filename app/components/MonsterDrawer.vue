@@ -34,7 +34,7 @@
         </div>
 
         <div class="flex-1 flex flex-col md:flex-row overflow-hidden">
-          <aside
+          <!--         <aside
             class="w-full md:w-80 border-r border-gray-100 dark:border-gray-800 p-4 overflow-y-auto bg-gray-50/50 dark:bg-gray-900/50"
           >
             <h3 class="font-bold text-lg mb-4 flex items-center gap-2">
@@ -70,7 +70,7 @@
               <span class="font-black text-primary px-2">x{{ count }}</span>
             </div>
           </aside>
-
+ -->
           <main
             class="flex-1 flex flex-col p-4 bg-white dark:bg-gray-900 overflow-hidden"
           >
@@ -251,7 +251,7 @@ const usages = computed(() => {
 const requirements = computed(() => {
   if (!props.monster || recipes.value.length === 0) return {};
   const counts: Record<string, number> = {};
-  const MAX_DEPTH = 5;
+  const MAX_DEPTH = 3;
 
   function dfs(id: string, depth = 0) {
     if (depth >= MAX_DEPTH) {

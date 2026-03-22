@@ -13,7 +13,7 @@ const emit = defineEmits(["update:modelValue", "update:type", "update:rank"]);
 const search = ref(props.modelValue || "");
 
 const types = [
-  { label: "Tous les types", value: "Tous les types", icon: null },
+  { label: "Types", value: "Types", icon: null },
   { label: "Gluant", value: "gluant", icon: "/img/dqmj3pro/types/gluant.png" },
   { label: "Dragon", value: "dragon", icon: "/img/dqmj3pro/types/dragon.png" },
   {
@@ -35,20 +35,20 @@ const types = [
   },
 ];
 
-const ranks = ["Tous les rangs", "F", "E", "D", "C", "B", "A", "S", "SS"];
+const ranks = ["Rangs", "F", "E", "D", "C", "B", "A", "S", "SS"];
 
 const selectedType = ref(types[0]);
-const selectedRank = ref("Tous les rangs");
+const selectedRank = ref("Rangs");
 
 watch(search, (val) => emit("update:modelValue", val));
 
 watch(selectedType, (val) => {
-  const valueToEmit = val?.value === "Tous les types" ? "" : val?.value;
+  const valueToEmit = val?.value === "Types" ? "" : val?.value;
   emit("update:type", valueToEmit);
 });
 
 watch(selectedRank, (val) => {
-  const valueToEmit = val === "Tous les rangs" ? "" : val;
+  const valueToEmit = val === "Rangs" ? "" : val;
   emit("update:rank", valueToEmit);
 });
 </script>
@@ -68,7 +68,7 @@ watch(selectedRank, (val) => {
 
       <USelect v-model="selectedRank" :items="ranks" class="w-32" size="lg" />
 
-      <USelectMenu v-model="selectedType" :items="types" class="w-56" size="lg">
+      <USelectMenu v-model="selectedType" :items="types" class="w-32" size="lg">
         <template #leading>
           <img
             v-if="selectedType?.icon"
