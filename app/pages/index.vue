@@ -1,12 +1,14 @@
 <script setup lang="ts">
-import { ref, computed, onMounted } from "vue";
+import { ref, computed, onMounted, watch } from "vue";
 import { useMonsters } from "../composable/useMonster";
 import type { Monster } from "../interfaces/monster.interface";
 import { useRecipes } from "~/composable/useRecipes";
+import { useDataSource } from "~/composable/useDataSource";
 
 const config = useRuntimeConfig();
 const { monsters } = useMonsters();
 const { recipes } = useRecipes();
+const { source } = useDataSource();
 
 const search = ref("");
 const selectedType = ref("");
@@ -14,14 +16,25 @@ const selectedRank = ref("");
 const selected = ref<Monster | null>(null);
 const isOpen = ref(false);
 
-onMounted(async () => {
+async function loadData() {
   const baseUrl = config.app.baseURL;
+  const { value, monstersFile, recipesFile } = source.value;
+
   monsters.value = await fetch(
-    `${baseUrl}/data/dqmj3pro/monsters_list.json`,
+    `${baseUrl}data/${value}/${monstersFile}`,
   ).then((r) => r.json());
-  recipes.value = await fetch(`${baseUrl}data/dqmj3pro/recipes.json`).then(
+  recipes.value = await fetch(`${baseUrl}data/${value}/${recipesFile}`).then(
     (r) => r.json(),
   );
+}
+
+onMounted(loadData);
+
+watch(source, () => {
+  // Réinitialise la sélection et recharge les données de la nouvelle source
+  selected.value = null;
+  isOpen.value = false;
+  loadData();
 });
 
 function selectMonster(monster: Monster) {

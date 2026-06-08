@@ -1,8 +1,13 @@
 <script setup lang="ts">
 import { ref, watch } from "vue";
 import { useAsset } from "~/composable/useAsset";
+import { useDataSource } from "~/composable/useDataSource";
 
 const { resolvePath } = useAsset();
+const { source, sources, setSource } = useDataSource();
+
+const selectedSource = ref(source.value.value);
+watch(selectedSource, (val) => setSource(val));
 
 const props = defineProps<{
   modelValue: string;
@@ -58,6 +63,15 @@ watch(selectedRank, (val) => {
     class="sticky top-0 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm border-b dark:border-gray-800 py-4 mb-4 shadow-sm"
   >
     <div class="flex gap-2 items-center container mx-auto px-4">
+      <USelect
+        v-model="selectedSource"
+        :items="sources"
+        value-key="value"
+        label-key="label"
+        class="w-40"
+        size="lg"
+      />
+
       <UInput
         v-model="search"
         placeholder="Rechercher un monstre..."

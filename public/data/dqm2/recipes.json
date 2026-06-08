@@ -1,0 +1,5919 @@
+[
+    {
+        "result": "001",
+        "ingredients": [
+            "Aucune (monstres personnalisables)"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "004",
+        "ingredients": [
+            "003",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "006",
+        "ingredients": [
+            "003",
+            "020"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "007",
+        "ingredients": [
+            "003",
+            "004"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "010",
+        "ingredients": [
+            "003",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "011",
+        "ingredients": [
+            "003",
+            "010"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "012",
+        "ingredients": [
+            "004",
+            "011"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "013",
+        "ingredients": [
+            "012",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "014",
+        "ingredients": [
+            "004",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "015",
+        "ingredients": [
+            "006",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "016",
+        "ingredients": [
+            "006",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "017",
+        "ingredients": [
+            "010",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "020",
+        "ingredients": [
+            "010",
+            "011"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "021",
+        "ingredients": [
+            "014",
+            "013"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "022",
+        "ingredients": [
+            "014",
+            "015"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "023",
+        "ingredients": [
+            "016",
+            "015"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "024",
+        "ingredients": [
+            "016",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "026",
+        "ingredients": [
+            "020",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "027",
+        "ingredients": [
+            "003",
+            "015"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "028",
+        "ingredients": [
+            "050",
+            "006"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "029",
+        "ingredients": [
+            "005",
+            "021"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "030",
+        "ingredients": [
+            "022",
+            "021"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "032",
+        "ingredients": [
+            "022",
+            "023"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "034",
+        "ingredients": [
+            "024",
+            "023"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "035",
+        "ingredients": [
+            "026",
+            "023"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "036",
+        "ingredients": [
+            "026",
+            "027"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "037",
+        "ingredients": [
+            "028",
+            "027"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "038",
+        "ingredients": [
+            "014",
+            "029"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "040",
+        "ingredients": [
+            "030",
+            "029"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "041",
+        "ingredients": [
+            "030",
+            "032"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "042",
+        "ingredients": [
+            "034",
+            "032"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "043",
+        "ingredients": [
+            "035",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "044",
+        "ingredients": [
+            "037",
+            "038"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "045",
+        "ingredients": [
+            "040",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "046",
+        "ingredients": [
+            "041",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "047",
+        "ingredients": [
+            "043",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "048",
+        "ingredients": [
+            "043",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "049",
+        "ingredients": [
+            "035",
+            "036"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "050",
+        "ingredients": [
+            "037",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "051",
+        "ingredients": [
+            "044",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "052",
+        "ingredients": [
+            "044",
+            "045"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "053",
+        "ingredients": [
+            "047",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "054",
+        "ingredients": [
+            "048",
+            "026"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "055",
+        "ingredients": [
+            "048",
+            "049"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "056",
+        "ingredients": [
+            "050",
+            "049"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "057",
+        "ingredients": [
+            "051",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "058",
+        "ingredients": [
+            "052",
+            "023"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "059",
+        "ingredients": [
+            "046",
+            "045"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "060",
+        "ingredients": [
+            "053",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "061",
+        "ingredients": [
+            "014",
+            "010"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "062",
+        "ingredients": [
+            "051",
+            "Peu Importe"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "064",
+        "ingredients": [
+            "057",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "065",
+        "ingredients": [
+            "058",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "066",
+        "ingredients": [
+            "064",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "067",
+        "ingredients": [
+            "064",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "068",
+        "ingredients": [
+            "061",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "069",
+        "ingredients": [
+            "048",
+            "030"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "070",
+        "ingredients": [
+            "013",
+            "055"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "071",
+        "ingredients": [
+            "057",
+            "004"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "072",
+        "ingredients": [
+            "064",
+            "061"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "073",
+        "ingredients": [
+            "066",
+            "040"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "074",
+        "ingredients": [
+            "066",
+            "065"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "075",
+        "ingredients": [
+            "042",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "076",
+        "ingredients": [
+            "026",
+            "073"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "078",
+        "ingredients": [
+            "026",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "080",
+        "ingredients": [
+            "003",
+            "Dragon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "081",
+        "ingredients": [
+            "071",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "082",
+        "ingredients": [
+            "070",
+            "072"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "083",
+        "ingredients": [
+            "073",
+            "072"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "084",
+        "ingredients": [
+            "073",
+            "074"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "085",
+        "ingredients": [
+            "075",
+            "074"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "086",
+        "ingredients": [
+            "075",
+            "076"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "087",
+        "ingredients": [
+            "021",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "089",
+        "ingredients": [
+            "014",
+            "084"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "090",
+        "ingredients": [
+            "083",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "091",
+        "ingredients": [
+            "085",
+            "066"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "092",
+        "ingredients": [
+            "085",
+            "088"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "093",
+        "ingredients": [
+            "092",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "094",
+        "ingredients": [
+            "061",
+            "051"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "095",
+        "ingredients": [
+            "053",
+            "098"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "096",
+        "ingredients": [
+            "080",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "097",
+        "ingredients": [
+            "080",
+            "081"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "098",
+        "ingredients": [
+            "090",
+            "029"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "099",
+        "ingredients": [
+            "090",
+            "089"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "100",
+        "ingredients": [
+            "099",
+            "061"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "101",
+        "ingredients": [
+            "041",
+            "041"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "102",
+        "ingredients": [
+            "034",
+            "034"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "105",
+        "ingredients": [
+            "091",
+            "092"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "106",
+        "ingredients": [
+            "003",
+            "099"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "107",
+        "ingredients": [
+            "013",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "108",
+        "ingredients": [
+            "099",
+            "038"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "109",
+        "ingredients": [
+            "099",
+            "098"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "110",
+        "ingredients": [
+            "091",
+            "090"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "111",
+        "ingredients": [
+            "105",
+            "100"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "112",
+        "ingredients": [
+            "099",
+            "100"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "115",
+        "ingredients": [
+            "106",
+            "013"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "116",
+        "ingredients": [
+            "056",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "117",
+        "ingredients": [
+            "003",
+            "108"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "118",
+        "ingredients": [
+            "015",
+            "114"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "119",
+        "ingredients": [
+            "110",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "120",
+        "ingredients": [
+            "003",
+            "111"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "122",
+        "ingredients": [
+            "111",
+            "112"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "124",
+        "ingredients": [
+            "003",
+            "106"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "125",
+        "ingredients": [
+            "028",
+            "050",
+            "013",
+            "013"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "126",
+        "ingredients": [
+            "038",
+            "118"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "128",
+        "ingredients": [
+            "117",
+            "118"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "129",
+        "ingredients": [
+            "124",
+            "007"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "130",
+        "ingredients": [
+            "120",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "131",
+        "ingredients": [
+            "026",
+            "128"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "132",
+        "ingredients": [
+            "158",
+            "RangE"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "134",
+        "ingredients": [
+            "054",
+            "120"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "135",
+        "ingredients": [
+            "125",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "136",
+        "ingredients": [
+            "125",
+            "126"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "137",
+        "ingredients": [
+            "125",
+            "128"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "138",
+        "ingredients": [
+            "016",
+            "016"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "139",
+        "ingredients": [
+            "130",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "140",
+        "ingredients": [
+            "136",
+            "020"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "141",
+        "ingredients": [
+            "124",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "142",
+        "ingredients": [
+            "135",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "144",
+        "ingredients": [
+            "136",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "145",
+        "ingredients": [
+            "006",
+            "144"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "146",
+        "ingredients": [
+            "046",
+            "144"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "147",
+        "ingredients": [
+            "139",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "148",
+        "ingredients": [
+            "140",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "149",
+        "ingredients": [
+            "003",
+            "144"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "150",
+        "ingredients": [
+            "081",
+            "149"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "151",
+        "ingredients": [
+            "003",
+            "144"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "152",
+        "ingredients": [
+            "107",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "154",
+        "ingredients": [
+            "016",
+            "165"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "155",
+        "ingredients": [
+            "147",
+            "145"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "156",
+        "ingredients": [
+            "003",
+            "148"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "157",
+        "ingredients": [
+            "150",
+            "149"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "158",
+        "ingredients": [
+            "014",
+            "154"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "159",
+        "ingredients": [
+            "154",
+            "081"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "160",
+        "ingredients": [
+            "159",
+            "017"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "161",
+        "ingredients": [
+            "105",
+            "157"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "163",
+        "ingredients": [
+            "038",
+            "061"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "165",
+        "ingredients": [
+            "084",
+            "RangE"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "167",
+        "ingredients": [
+            "177",
+            "Démon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "168",
+        "ingredients": [
+            "149",
+            "148"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "169",
+        "ingredients": [
+            "071",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "170",
+        "ingredients": [
+            "158",
+            "157"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "171",
+        "ingredients": [
+            "158",
+            "159"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "172",
+        "ingredients": [
+            "151",
+            "152"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "173",
+        "ingredients": [
+            "129",
+            "Démon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "174",
+        "ingredients": [
+            "166",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "175",
+        "ingredients": [
+            "161",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "176",
+        "ingredients": [
+            "168",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "177",
+        "ingredients": [
+            "004",
+            "004"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "178",
+        "ingredients": [
+            "177",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "179",
+        "ingredients": [
+            "172",
+            "171"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "180",
+        "ingredients": [
+            "125",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "181",
+        "ingredients": [
+            "139",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "182",
+        "ingredients": [
+            "175",
+            "174"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "183",
+        "ingredients": [
+            "169",
+            "RangE"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "184",
+        "ingredients": [
+            "178",
+            "177"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "185",
+        "ingredients": [
+            "179",
+            "178"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "186",
+        "ingredients": [
+            "180",
+            "179"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "187",
+        "ingredients": [
+            "181",
+            "179"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "188",
+        "ingredients": [
+            "038",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "189",
+        "ingredients": [
+            "113",
+            "146"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "190",
+        "ingredients": [
+            "003",
+            "176"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "191",
+        "ingredients": [
+            "255",
+            "RangE"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "192",
+        "ingredients": [
+            "184",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "193",
+        "ingredients": [
+            "184",
+            "185"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "194",
+        "ingredients": [
+            "186",
+            "185"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "195",
+        "ingredients": [
+            "120",
+            "194"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "196",
+        "ingredients": [
+            "188",
+            "187"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "198",
+        "ingredients": [
+            "307",
+            "Gluant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "199",
+        "ingredients": [
+            "177",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "200",
+        "ingredients": [
+            "184",
+            "RangE"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "201",
+        "ingredients": [
+            "193",
+            "192"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "202",
+        "ingredients": [
+            "193",
+            "194"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "203",
+        "ingredients": [
+            "195",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "204",
+        "ingredients": [
+            "196",
+            "195"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "205",
+        "ingredients": [
+            "203",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "206",
+        "ingredients": [
+            "202",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "227",
+        "ingredients": [
+            "198",
+            "196"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "229",
+        "ingredients": [
+            "199",
+            "198"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "230",
+        "ingredients": [
+            "205",
+            "204"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "232",
+        "ingredients": [
+            "040",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "235",
+        "ingredients": [
+            "206",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "236",
+        "ingredients": [
+            "017",
+            "227"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "237",
+        "ingredients": [
+            "204",
+            "203"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "240",
+        "ingredients": [
+            "227",
+            "206"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "241",
+        "ingredients": [
+            "004",
+            "232"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "242",
+        "ingredients": [
+            "230",
+            "229"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "243",
+        "ingredients": [
+            "232",
+            "230"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "244",
+        "ingredients": [
+            "235",
+            "232"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "245",
+        "ingredients": [
+            "139",
+            "Bête"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "246",
+        "ingredients": [
+            "237",
+            "236"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "248",
+        "ingredients": [
+            "177",
+            "Bête"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "251",
+        "ingredients": [
+            "099",
+            "099",
+            "099",
+            "099"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "252",
+        "ingredients": [
+            "165",
+            "066"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "253",
+        "ingredients": [
+            "017",
+            "017",
+            "017",
+            "017"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "254",
+        "ingredients": [
+            "197",
+            "252"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "255",
+        "ingredients": [
+            "241",
+            "240"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "256",
+        "ingredients": [
+            "242",
+            "241"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "257",
+        "ingredients": [
+            "075",
+            "Démon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "258",
+        "ingredients": [
+            "020",
+            "249"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "259",
+        "ingredients": [
+            "244",
+            "243"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "260",
+        "ingredients": [
+            "245",
+            "244"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "261",
+        "ingredients": [
+            "258",
+            "081"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "263",
+        "ingredients": [
+            "187",
+            "157"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "265",
+        "ingredients": [
+            "240",
+            "237"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "266",
+        "ingredients": [
+            "255",
+            "246"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "268",
+        "ingredients": [
+            "126",
+            "006"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "269",
+        "ingredients": [
+            "257",
+            "256"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "270",
+        "ingredients": [
+            "259",
+            "258"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "271",
+        "ingredients": [
+            "260",
+            "259"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "272",
+        "ingredients": [
+            "261",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "274",
+        "ingredients": [
+            "058",
+            "188"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "275",
+        "ingredients": [
+            "155",
+            "049"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "276",
+        "ingredients": [
+            "265",
+            "261"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "277",
+        "ingredients": [
+            "266",
+            "265"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "278",
+        "ingredients": [
+            "268",
+            "266"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "279",
+        "ingredients": [
+            "269",
+            "268"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "280",
+        "ingredients": [
+            "120",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "281",
+        "ingredients": [
+            "271",
+            "270"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "282",
+        "ingredients": [
+            "272",
+            "271"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "283",
+        "ingredients": [
+            "279",
+            "278"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "284",
+        "ingredients": [
+            "278",
+            "RangD"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "285",
+        "ingredients": [
+            "109",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "286",
+        "ingredients": [
+            "277",
+            "276"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "287",
+        "ingredients": [
+            "278",
+            "276"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "288",
+        "ingredients": [
+            "283",
+            "206"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "289",
+        "ingredients": [
+            "173",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "290",
+        "ingredients": [
+            "282",
+            "281"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "291",
+        "ingredients": [
+            "044",
+            "084"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "293",
+        "ingredients": [
+            "276",
+            "272"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "294",
+        "ingredients": [
+            "286",
+            "283"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "295",
+        "ingredients": [
+            "170",
+            "Démon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "296",
+        "ingredients": [
+            "288",
+            "287"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "297",
+        "ingredients": [
+            "289",
+            "288"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "298",
+        "ingredients": [
+            "280",
+            "281"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "299",
+        "ingredients": [
+            "290",
+            "288"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "300",
+        "ingredients": [
+            "072",
+            "111"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "301",
+        "ingredients": [
+            "138",
+            "138"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "302",
+        "ingredients": [
+            "293",
+            "290"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "303",
+        "ingredients": [
+            "294",
+            "293"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "304",
+        "ingredients": [
+            "230",
+            "RangD"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "305",
+        "ingredients": [
+            "296",
+            "295"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "307",
+        "ingredients": [
+            "194",
+            "052"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "308",
+        "ingredients": [
+            "298",
+            "297"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "309",
+        "ingredients": [
+            "299",
+            "298"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "310",
+        "ingredients": [
+            "304",
+            "003"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "311",
+        "ingredients": [
+            "Délaisser 3 compétences avec moins de 150 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "312",
+        "ingredients": [
+            "Délaisser 3 compétences avec plus de 150 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "313",
+        "ingredients": [
+            "303",
+            "302"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "314",
+        "ingredients": [
+            "304",
+            "303"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "315",
+        "ingredients": [
+            "305",
+            "304"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "316",
+        "ingredients": [
+            "192",
+            "046",
+            "192",
+            "046"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "317",
+        "ingredients": [
+            "308",
+            "307"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "318",
+        "ingredients": [
+            "287",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "320",
+        "ingredients": [
+            "302",
+            "299"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "321",
+        "ingredients": [
+            "313",
+            "309"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "322",
+        "ingredients": [
+            "314",
+            "313"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "323",
+        "ingredients": [
+            "315",
+            "314"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "324",
+        "ingredients": [
+            "316",
+            "315"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "325",
+        "ingredients": [
+            "317",
+            "316"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "326",
+        "ingredients": [
+            "318",
+            "317"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "327",
+        "ingredients": [
+            "004",
+            "323"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "328",
+        "ingredients": [
+            "322",
+            "321"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "329",
+        "ingredients": [
+            "326",
+            "325"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "331",
+        "ingredients": [
+            "743",
+            "604"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "332",
+        "ingredients": [
+            "658",
+            "604"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "340",
+        "ingredients": [
+            "293",
+            "358"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "342",
+        "ingredients": [
+            "327",
+            "326"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "343",
+        "ingredients": [
+            "328",
+            "327"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "344",
+        "ingredients": [
+            "015",
+            "243"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "345",
+        "ingredients": [
+            "324",
+            "323"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "346",
+        "ingredients": [
+            "308",
+            "297"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "347",
+        "ingredients": [
+            "102",
+            "102"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "348",
+        "ingredients": [
+            "340",
+            "329"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "350",
+        "ingredients": [
+            "248",
+            "247"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "351",
+        "ingredients": [
+            "026",
+            "184",
+            "026",
+            "184"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "353",
+        "ingredients": [
+            "344",
+            "343"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "354",
+        "ingredients": [
+            "345",
+            "344"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "355",
+        "ingredients": [
+            "346",
+            "345"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "356",
+        "ingredients": [
+            "329",
+            "328"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "358",
+        "ingredients": [
+            "293",
+            "106"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "360",
+        "ingredients": [
+            "266",
+            "135"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "361",
+        "ingredients": [
+            "277",
+            "005"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "362",
+        "ingredients": [
+            "181",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "363",
+        "ingredients": [
+            "091",
+            "091",
+            "091",
+            "091"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "364",
+        "ingredients": [
+            "308",
+            "270"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "366",
+        "ingredients": [
+            "247",
+            "167"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "367",
+        "ingredients": [
+            "350",
+            "348"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "368",
+        "ingredients": [
+            "361",
+            "307"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "370",
+        "ingredients": [
+            "351",
+            "353"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "371",
+        "ingredients": [
+            "354",
+            "353"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "372",
+        "ingredients": [
+            "355",
+            "354"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "373",
+        "ingredients": [
+            "289",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "374",
+        "ingredients": [
+            "366",
+            "356"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "375",
+        "ingredients": [
+            "295",
+            "Gluant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "376",
+        "ingredients": [
+            "370",
+            "368"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "377",
+        "ingredients": [
+            "371",
+            "370"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "378",
+        "ingredients": [
+            "074",
+            "074",
+            "074",
+            "074"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "379",
+        "ingredients": [
+            "372",
+            "371"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "380",
+        "ingredients": [
+            "373",
+            "372"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "381",
+        "ingredients": [
+            "293",
+            "293"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "382",
+        "ingredients": [
+            "305",
+            "194"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "383",
+        "ingredients": [
+            "087",
+            "112"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "387",
+        "ingredients": [
+            "271",
+            "280"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "389",
+        "ingredients": [
+            "183",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "390",
+        "ingredients": [
+            "375",
+            "374"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "391",
+        "ingredients": [
+            "376",
+            "375"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "392",
+        "ingredients": [
+            "379",
+            "378"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "393",
+        "ingredients": [
+            "380",
+            "379"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "394",
+        "ingredients": [
+            "374",
+            "373"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "395",
+        "ingredients": [
+            "125",
+            "307"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "396",
+        "ingredients": [
+            "287",
+            "287"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "397",
+        "ingredients": [
+            "055",
+            "193",
+            "055",
+            "193"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "398",
+        "ingredients": [
+            "378",
+            "376"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "399",
+        "ingredients": [
+            "392",
+            "391"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "400",
+        "ingredients": [
+            "393",
+            "392"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "403",
+        "ingredients": [
+            "257",
+            "285"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "404",
+        "ingredients": [
+            "246",
+            "280"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "405",
+        "ingredients": [
+            "055",
+            "358"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "406",
+        "ingredients": [
+            "396",
+            "395"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "407",
+        "ingredients": [
+            "305",
+            "242"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "408",
+        "ingredients": [
+            "259",
+            "368"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "410",
+        "ingredients": [
+            "399",
+            "398"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "411",
+        "ingredients": [
+            "400",
+            "399"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "412",
+        "ingredients": [
+            "385",
+            "Gluant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "413",
+        "ingredients": [
+            "286",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "414",
+        "ingredients": [
+            "406",
+            "405"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "415",
+        "ingredients": [
+            "407",
+            "406"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "417",
+        "ingredients": [
+            "408",
+            "407"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "418",
+        "ingredients": [
+            "410",
+            "408"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "420",
+        "ingredients": [
+            "411",
+            "410"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "421",
+        "ingredients": [
+            "092",
+            "092",
+            "092",
+            "092"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "422",
+        "ingredients": [
+            "237",
+            "237",
+            "237",
+            "237"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "423",
+        "ingredients": [
+            "413",
+            "412"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "424",
+        "ingredients": [
+            "414",
+            "413"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "425",
+        "ingredients": [
+            "415",
+            "414"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "426",
+        "ingredients": [
+            "418",
+            "417"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "427",
+        "ingredients": [
+            "420",
+            "418"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "428",
+        "ingredients": [
+            "003",
+            "307"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "429",
+        "ingredients": [
+            "424",
+            "423"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "430",
+        "ingredients": [
+            "425",
+            "424"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "431",
+        "ingredients": [
+            "417",
+            "415"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "432",
+        "ingredients": [
+            "426",
+            "425"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "433",
+        "ingredients": [
+            "043",
+            "075"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "434",
+        "ingredients": [
+            "428",
+            "427"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "435",
+        "ingredients": [
+            "248",
+            "237"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "436",
+        "ingredients": [
+            "429",
+            "428"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "437",
+        "ingredients": [
+            "430",
+            "429"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "438",
+        "ingredients": [
+            "431",
+            "430"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "439",
+        "ingredients": [
+            "060",
+            "060",
+            "060",
+            "060"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "440",
+        "ingredients": [
+            "433",
+            "432"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "441",
+        "ingredients": [
+            "Délaisser 4 compétences avec moins de 200 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "442",
+        "ingredients": [
+            "Délaisser 4 compétences avec plus de 200 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "443",
+        "ingredients": [
+            "049",
+            "381"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "444",
+        "ingredients": [
+            "435",
+            "434"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "445",
+        "ingredients": [
+            "436",
+            "435"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "446",
+        "ingredients": [
+            "437",
+            "436"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "447",
+        "ingredients": [
+            "438",
+            "437"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "448",
+        "ingredients": [
+            "439",
+            "438"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "449",
+        "ingredients": [
+            "156",
+            "308"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "450",
+        "ingredients": [
+            "445",
+            "444"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "451",
+        "ingredients": [
+            "361",
+            "260"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "452",
+        "ingredients": [
+            "449",
+            "448"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "455",
+        "ingredients": [
+            "443",
+            "440"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "457",
+        "ingredients": [
+            "444",
+            "443"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "458",
+        "ingredients": [
+            "361",
+            "194"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "459",
+        "ingredients": [
+            "165",
+            "165",
+            "165",
+            "165"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "460",
+        "ingredients": [
+            "347",
+            "Bête"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "461",
+        "ingredients": [
+            "385",
+            "385"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "462",
+        "ingredients": [
+            "451",
+            "450"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "463",
+        "ingredients": [
+            "452",
+            "451"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "464",
+        "ingredients": [
+            "247",
+            "247"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "465",
+        "ingredients": [
+            "050",
+            "050",
+            "050",
+            "050"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "466",
+        "ingredients": [
+            "438",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "468",
+        "ingredients": [
+            "180",
+            "180",
+            "180",
+            "180"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "469",
+        "ingredients": [
+            "421",
+            "460"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "470",
+        "ingredients": [
+            "461",
+            "460"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "472",
+        "ingredients": [
+            "281",
+            "Gluant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "473",
+        "ingredients": [
+            "457",
+            "455"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "474",
+        "ingredients": [
+            "458",
+            "457"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "475",
+        "ingredients": [
+            "361",
+            "237"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "476",
+        "ingredients": [
+            "154",
+            "154",
+            "154",
+            "154"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "477",
+        "ingredients": [
+            "462",
+            "461"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "478",
+        "ingredients": [
+            "246",
+            "246",
+            "246",
+            "246"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "479",
+        "ingredients": [
+            "360",
+            "RangB"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "480",
+        "ingredients": [
+            "291",
+            "291",
+            "291",
+            "291"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "481",
+        "ingredients": [
+            "164",
+            "164",
+            "164",
+            "164"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "482",
+        "ingredients": [
+            "476",
+            "475"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "485",
+        "ingredients": [
+            "477",
+            "476"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "486",
+        "ingredients": [
+            "167",
+            "437"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "489",
+        "ingredients": [
+            "028",
+            "028",
+            "028",
+            "028"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "493",
+        "ingredients": [
+            "472",
+            "Bête"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "494",
+        "ingredients": [
+            "478",
+            "513"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "495",
+        "ingredients": [
+            "027",
+            "340"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "496",
+        "ingredients": [
+            "303",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "497",
+        "ingredients": [
+            "124",
+            "124",
+            "106",
+            "371"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "498",
+        "ingredients": [
+            "136",
+            "414"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "500",
+        "ingredients": [
+            "481",
+            "480"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "501",
+        "ingredients": [
+            "482",
+            "481"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "502",
+        "ingredients": [
+            "492",
+            "486"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "503",
+        "ingredients": [
+            "486",
+            "485"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "505",
+        "ingredients": [
+            "278",
+            "379"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "506",
+        "ingredients": [
+            "396",
+            "396"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "507",
+        "ingredients": [
+            "379",
+            "364"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "508",
+        "ingredients": [
+            "529",
+            "356"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "509",
+        "ingredients": [
+            "472",
+            "167"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "510",
+        "ingredients": [
+            "360",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "511",
+        "ingredients": [
+            "498",
+            "496"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "512",
+        "ingredients": [
+            "500",
+            "498"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "513",
+        "ingredients": [
+            "373",
+            "006"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "515",
+        "ingredients": [
+            "502",
+            "501"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "516",
+        "ingredients": [
+            "503",
+            "502"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "517",
+        "ingredients": [
+            "321",
+            "321",
+            "321",
+            "321"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "518",
+        "ingredients": [
+            "200",
+            "200"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "519",
+        "ingredients": [
+            "391",
+            "262"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "520",
+        "ingredients": [
+            "513",
+            "512"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "522",
+        "ingredients": [
+            "516",
+            "515"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "523",
+        "ingredients": [
+            "381",
+            "405"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "524",
+        "ingredients": [
+            "466",
+            "Dragon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "525",
+        "ingredients": [
+            "151",
+            "379",
+            "151",
+            "379"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "526",
+        "ingredients": [
+            "479",
+            "303"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "527",
+        "ingredients": [
+            "520",
+            "519"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "528",
+        "ingredients": [
+            "373",
+            "303"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "529",
+        "ingredients": [
+            "011",
+            "011",
+            "011",
+            "011"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "531",
+        "ingredients": [
+            "229",
+            "167"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "533",
+        "ingredients": [
+            "392",
+            "364"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "534",
+        "ingredients": [
+            "387",
+            "517"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "535",
+        "ingredients": [
+            "523",
+            "522"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "536",
+        "ingredients": [
+            "524",
+            "523"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "537",
+        "ingredients": [
+            "525",
+            "151"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "538",
+        "ingredients": [
+            "391",
+            "417"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "539",
+        "ingredients": [
+            "364",
+            "458"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "540",
+        "ingredients": [
+            "145",
+            "469",
+            "378",
+            "378"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "541",
+        "ingredients": [
+            "076",
+            "076",
+            "076",
+            "076"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "542",
+        "ingredients": [
+            "241",
+            "286"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "543",
+        "ingredients": [
+            "518",
+            "518"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "544",
+        "ingredients": [
+            "257",
+            "271"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "545",
+        "ingredients": [
+            "364",
+            "368"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "546",
+        "ingredients": [
+            "245",
+            "245",
+            "245",
+            "245"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "547",
+        "ingredients": [
+            "299",
+            "478"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "548",
+        "ingredients": [
+            "Délaisser 5 compétences avec moins de 250 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "549",
+        "ingredients": [
+            "Délaisser 5 compétences avec moins de 250 PC en tout"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "550",
+        "ingredients": [
+            "472",
+            "472",
+            "472",
+            "472"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "551",
+        "ingredients": [
+            "615",
+            "578"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "552",
+        "ingredients": [
+            "543",
+            "542"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "553",
+        "ingredients": [
+            "544",
+            "543"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "554",
+        "ingredients": [
+            "417",
+            "417",
+            "417",
+            "417"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "555",
+        "ingredients": [
+            "363",
+            "110"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "556",
+        "ingredients": [
+            "388",
+            "388"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "557",
+        "ingredients": [
+            "552",
+            "551"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "558",
+        "ingredients": [
+            "372",
+            "186"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "559",
+        "ingredients": [
+            "403",
+            "403"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "560",
+        "ingredients": [
+            "486",
+            "422"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "566",
+        "ingredients": [
+            "561",
+            "207"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "567",
+        "ingredients": [
+            "465",
+            "465",
+            "489",
+            "489"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "568",
+        "ingredients": [
+            "553",
+            "552"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "569",
+        "ingredients": [
+            "349",
+            "104"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "570",
+        "ingredients": [
+            "486",
+            "486",
+            "078",
+            "078"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "571",
+        "ingredients": [
+            "437",
+            "422"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "572",
+        "ingredients": [
+            "274",
+            "274"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "573",
+        "ingredients": [
+            "286",
+            "528"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "574",
+        "ingredients": [
+            "456",
+            "369"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "575",
+        "ingredients": [
+            "384",
+            "384"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "576",
+        "ingredients": [
+            "154",
+            "476",
+            "154",
+            "476"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "577",
+        "ingredients": [
+            "469",
+            "575"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "578",
+        "ingredients": [
+            "567",
+            "559"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "579",
+        "ingredients": [
+            "368",
+            "458"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "580",
+        "ingredients": [
+            "257",
+            "257",
+            "257",
+            "257"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "582",
+        "ingredients": [
+            "570",
+            "568"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "583",
+        "ingredients": [
+            "582",
+            "Materiel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "584",
+        "ingredients": [
+            "582",
+            "Bête"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "585",
+        "ingredients": [
+            "582",
+            "Naturel"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "586",
+        "ingredients": [
+            "558",
+            "060"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "587",
+        "ingredients": [
+            "478",
+            "478"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "589",
+        "ingredients": [
+            "479",
+            "268"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "590",
+        "ingredients": [
+            "559",
+            "515"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "591",
+        "ingredients": [
+            "461",
+            "431"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "592",
+        "ingredients": [
+            "435",
+            "314"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "593",
+        "ingredients": [
+            "587",
+            "196"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "594",
+        "ingredients": [
+            "650",
+            "688"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "595",
+        "ingredients": [
+            "012",
+            "592"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "596",
+        "ingredients": [
+            "578",
+            "572"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "598",
+        "ingredients": [
+            "230",
+            "361",
+            "230",
+            "361"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "599",
+        "ingredients": [
+            "446",
+            "592"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "601",
+        "ingredients": [
+            "066",
+            "592"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "602",
+        "ingredients": [
+            "359",
+            "121"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "603",
+        "ingredients": [
+            "030",
+            "592"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "604",
+        "ingredients": [
+            "593",
+            "586"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "605",
+        "ingredients": [
+            "418",
+            "578"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "606",
+        "ingredients": [
+            "480",
+            "480",
+            "480",
+            "480"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "607",
+        "ingredients": [
+            "483",
+            "226"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "608",
+        "ingredients": [
+            "288",
+            "288"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "609",
+        "ingredients": [
+            "387",
+            "387",
+            "621",
+            "621"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "613",
+        "ingredients": [
+            "060",
+            "624"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "614",
+        "ingredients": [
+            "612",
+            "Démon"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "616",
+        "ingredients": [
+            "366",
+            "366",
+            "523",
+            "523"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "617",
+        "ingredients": [
+            "589",
+            "376"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "618",
+        "ingredients": [
+            "538",
+            "251"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "620",
+        "ingredients": [
+            "641",
+            "370"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "621",
+        "ingredients": [
+            "494",
+            "547"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "622",
+        "ingredients": [
+            "486",
+            "570",
+            "486",
+            "570"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "623",
+        "ingredients": [
+            "567",
+            "413"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "625",
+        "ingredients": [
+            "568",
+            "568"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "627",
+        "ingredients": [
+            "567",
+            "508"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "629",
+        "ingredients": [
+            "361",
+            "589"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "630",
+        "ingredients": [
+            "580",
+            "515"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "631",
+        "ingredients": [
+            "555",
+            "387"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "632",
+        "ingredients": [
+            "533",
+            "641"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "634",
+        "ingredients": [
+            "494",
+            "494"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "635",
+        "ingredients": [
+            "624",
+            "556"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "636",
+        "ingredients": [
+            "513",
+            "617"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "637",
+        "ingredients": [
+            "616",
+            "616"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "638",
+        "ingredients": [
+            "350",
+            "567"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "639",
+        "ingredients": [
+            "015",
+            "692",
+            "015",
+            "692"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "640",
+        "ingredients": [
+            "539",
+            "545"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "641",
+        "ingredients": [
+            "546",
+            "623"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "642",
+        "ingredients": [
+            "243",
+            "467"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "643",
+        "ingredients": [
+            "621",
+            "622"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "644",
+        "ingredients": [
+            "622",
+            "435"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "646",
+        "ingredients": [
+            "084",
+            "084",
+            "084",
+            "084"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "647",
+        "ingredients": [
+            "260",
+            "260",
+            "260",
+            "260"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "648",
+        "ingredients": [
+            "621",
+            "490"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "649",
+        "ingredients": [
+            "464",
+            "464",
+            "464",
+            "464"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "650",
+        "ingredients": [
+            "623",
+            "621"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "651",
+        "ingredients": [
+            "580",
+            "540"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "652",
+        "ingredients": [
+            "629",
+            "730"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "653",
+        "ingredients": [
+            "605",
+            "435"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "655",
+        "ingredients": [
+            "589",
+            "620"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "658",
+        "ingredients": [
+            "587",
+            "578"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "659",
+        "ingredients": [
+            "694",
+            "579"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "660",
+        "ingredients": [
+            "571",
+            "397"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "661",
+        "ingredients": [
+            "Incarnus",
+            "Naturel F-A"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "662",
+        "ingredients": [
+            "Incarnus",
+            "Démon F-A"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "663",
+        "ingredients": [
+            "Incarnus",
+            "Materiel F-A"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "664",
+        "ingredients": [
+            "Incarnus",
+            "Bête F-A"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "665",
+        "ingredients": [
+            "753",
+            "453"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "666",
+        "ingredients": [
+            "618",
+            "625"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "667",
+        "ingredients": [
+            "644",
+            "533"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "668",
+        "ingredients": [
+            "653",
+            "251"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "676",
+        "ingredients": [
+            "616",
+            "712",
+            "616",
+            "712"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "678",
+        "ingredients": [
+            "623",
+            "632"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "679",
+        "ingredients": [
+            "360",
+            "491"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "680",
+        "ingredients": [
+            "766",
+            "666"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "681",
+        "ingredients": [
+            "764",
+            "667"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "682",
+        "ingredients": [
+            "765",
+            "668"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "683",
+        "ingredients": [
+            "520",
+            "520",
+            "693",
+            "693"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "684",
+        "ingredients": [
+            "540",
+            "540",
+            "540",
+            "540"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "685",
+        "ingredients": [
+            "683",
+            "628",
+            "504",
+            "530"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "686",
+        "ingredients": [
+            "286",
+            "647"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "688",
+        "ingredients": [
+            "580",
+            "618"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "689",
+        "ingredients": [
+            "638",
+            "557"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "690",
+        "ingredients": [
+            "505",
+            "698",
+            "505",
+            "698"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "691",
+        "ingredients": [
+            "543",
+            "688"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "692",
+        "ingredients": [
+            "469",
+            "286"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "693",
+        "ingredients": [
+            "417",
+            "259",
+            "186",
+            "408"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "694",
+        "ingredients": [
+            "627",
+            "637"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "695",
+        "ingredients": [
+            "621",
+            "381"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "696",
+        "ingredients": [
+            "212",
+            "Un ci dessous"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "697",
+        "ingredients": [
+            "220",
+            "Un ci dessous"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "698",
+        "ingredients": [
+            "693",
+            "678"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "700",
+        "ingredients": [
+            "606",
+            "591"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "701",
+        "ingredients": [
+            "368",
+            "368",
+            "458",
+            "458"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "702",
+        "ingredients": [
+            "636",
+            "528"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "703",
+        "ingredients": [
+            "636",
+            "636"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "704",
+        "ingredients": [
+            "745",
+            "Mort-Vivant"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "705",
+        "ingredients": [
+            "212",
+            "Un ci dessous"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "706",
+        "ingredients": [
+            "220",
+            "Un ci dessous"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "707",
+        "ingredients": [
+            "631",
+            "572"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "708",
+        "ingredients": [
+            "702",
+            "551"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "709",
+        "ingredients": [
+            "650",
+            "646"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "710",
+        "ingredients": [
+            "560",
+            "635"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "712",
+        "ingredients": [
+            "358",
+            "358",
+            "649",
+            "649"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "713",
+        "ingredients": [
+            "686",
+            "638"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "714",
+        "ingredients": [
+            "700",
+            "579"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "715",
+        "ingredients": [
+            "619",
+            "540"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "723",
+        "ingredients": [
+            "679",
+            "630"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "724",
+        "ingredients": [
+            "238",
+            "633",
+            "409",
+            "499"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "725",
+        "ingredients": [
+            "419",
+            "514"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "728",
+        "ingredients": [
+            "481",
+            "453",
+            "599",
+            "454"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "729",
+        "ingredients": [
+            "583",
+            "582",
+            "584",
+            "585"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "730",
+        "ingredients": [
+            "630",
+            "617"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "731",
+        "ingredients": [
+            "623",
+            "557"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "732",
+        "ingredients": [
+            "544",
+            "595"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "733",
+        "ingredients": [
+            "352",
+            "674"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "734",
+        "ingredients": [
+            "718",
+            "601"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "736",
+        "ingredients": [
+            "596",
+            "678"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "737",
+        "ingredients": [
+            "715",
+            "620"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "739",
+        "ingredients": [
+            "724",
+            "574"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "740",
+        "ingredients": [
+            "603",
+            "542"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "741",
+        "ingredients": [
+            "703",
+            "648"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "742",
+        "ingredients": [
+            "678",
+            "630"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "743",
+        "ingredients": [
+            "623",
+            "586"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "744",
+        "ingredients": [
+            "640",
+            "695"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "745",
+        "ingredients": [
+            "707",
+            "413"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "746",
+        "ingredients": [
+            "575",
+            "692"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "748",
+        "ingredients": [
+            "659",
+            "591"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "750",
+        "ingredients": [
+            "744",
+            "587"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "751",
+        "ingredients": [
+            "651",
+            "592"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "753",
+        "ingredients": [
+            "523",
+            "616",
+            "523",
+            "616"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "754",
+        "ingredients": [
+            "758",
+            "758",
+            "318",
+            "318"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "755",
+        "ingredients": [
+            "284",
+            "284",
+            "655",
+            "655"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "756",
+        "ingredients": [
+            "749",
+            "713"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "757",
+        "ingredients": [
+            "716",
+            "708"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "758",
+        "ingredients": [
+            "693",
+            "693",
+            "753",
+            "753"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "759",
+        "ingredients": [
+            "666",
+            "667",
+            "668",
+            "594"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "760",
+        "ingredients": [
+            "729",
+            "186"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "771",
+        "ingredients": [
+            "755",
+            "686"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "772",
+        "ingredients": [
+            "640",
+            "742"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "773",
+        "ingredients": [
+            "739",
+            "634"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "774",
+        "ingredients": [
+            "725",
+            "641"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "775",
+        "ingredients": [
+            "651",
+            "758"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "776",
+        "ingredients": [
+            "772",
+            "773"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "777",
+        "ingredients": [
+            "554",
+            "758"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "778",
+        "ingredients": [
+            "578",
+            "698"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "779",
+        "ingredients": [
+            "055",
+            "381",
+            "055",
+            "712"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "780",
+        "ingredients": [
+            "661",
+            "Naturel S-SS"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "781",
+        "ingredients": [
+            "662",
+            "Démon S-SS"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "782",
+        "ingredients": [
+            "663",
+            "Materiel S-SS"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "783",
+        "ingredients": [
+            "664",
+            "Bête S-SS"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "784",
+        "ingredients": [
+            "683",
+            "760"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "786",
+        "ingredients": [
+            "685",
+            "677"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "787",
+        "ingredients": [
+            "750",
+            "651"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "788",
+        "ingredients": [
+            "714",
+            "649"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "789",
+        "ingredients": [
+            "756",
+            "400"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "790",
+        "ingredients": [
+            "684",
+            "760"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "791",
+        "ingredients": [
+            "690",
+            "803"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "794",
+        "ingredients": [
+            "611",
+            "262"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "795",
+        "ingredients": [
+            "712",
+            "758",
+            "712",
+            "758"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "796",
+        "ingredients": [
+            "709",
+            "567",
+            "790",
+            "730"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "797",
+        "ingredients": [
+            "745",
+            "658"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "798",
+        "ingredients": [
+            "743",
+            "713"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "801",
+        "ingredients": [
+            "752",
+            "858"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "802",
+        "ingredients": [
+            "639",
+            "746",
+            "728",
+            "830"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "803",
+        "ingredients": [
+            "802",
+            "843"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "805",
+        "ingredients": [
+            "804",
+            "680"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "806",
+        "ingredients": [
+            "804",
+            "682"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "807",
+        "ingredients": [
+            "804",
+            "681"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "808",
+        "ingredients": [
+            "804",
+            "610"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "809",
+        "ingredients": [
+            "805",
+            "806",
+            "807",
+            "808"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "810",
+        "ingredients": [
+            "809",
+            "710"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "811",
+        "ingredients": [
+            "635",
+            "736"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "812",
+        "ingredients": [
+            "737",
+            "732"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "813",
+        "ingredients": [
+            "648",
+            "733"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "814",
+        "ingredients": [
+            "735",
+            "734"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "815",
+        "ingredients": [
+            "711",
+            "811",
+            "740",
+            "813"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "816",
+        "ingredients": [
+            "812",
+            "738",
+            "814",
+            "741"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "818",
+        "ingredients": [
+            "815",
+            "816"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "819",
+        "ingredients": [
+            "720",
+            "758"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "820",
+        "ingredients": [
+            "722",
+            "551"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "821",
+        "ingredients": [
+            "731",
+            "719"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "822",
+        "ingredients": [
+            "791",
+            "810"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "826",
+        "ingredients": [
+            "746",
+            "712"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "827",
+        "ingredients": [
+            "750",
+            "643"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "828",
+        "ingredients": [
+            "795",
+            "677"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "832",
+        "ingredients": [
+            "748",
+            "796"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "833",
+        "ingredients": [
+            "868",
+            "865",
+            "642",
+            "855"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "834",
+        "ingredients": [
+            "828",
+            "685"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "835",
+        "ingredients": [
+            "784",
+            "823"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "837",
+        "ingredients": [
+            "836",
+            "869"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "838",
+        "ingredients": [
+            "351",
+            "824"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "839",
+        "ingredients": [
+            "690",
+            "790"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "840",
+        "ingredients": [
+            "784",
+            "520",
+            "683",
+            "461"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "841",
+        "ingredients": [
+            "777",
+            "778"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "842",
+        "ingredients": [
+            "660",
+            "751"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "843",
+        "ingredients": [
+            "801",
+            "840"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "844",
+        "ingredients": [
+            "798",
+            "836"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "845",
+        "ingredients": [
+            "837",
+            "701"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "846",
+        "ingredients": [
+            "837",
+            "829"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "848",
+        "ingredients": [
+            "827",
+            "797",
+            "832",
+            "842"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "849",
+        "ingredients": [
+            "834",
+            "793",
+            "792",
+            "823"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "850",
+        "ingredients": [
+            "669",
+            "750"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "851",
+        "ingredients": [
+            "670",
+            "796"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "852",
+        "ingredients": [
+            "671",
+            "832"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "853",
+        "ingredients": [
+            "672",
+            "848"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "855",
+        "ingredients": [
+            "620",
+            "858"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "856",
+        "ingredients": [
+            "844",
+            "827"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "857",
+        "ingredients": [
+            "657",
+            "723"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "858",
+        "ingredients": [
+            "640",
+            "826"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "859",
+        "ingredients": [
+            "848",
+            "857"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "860",
+        "ingredients": [
+            "687",
+            "869"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "862",
+        "ingredients": [
+            "780",
+            "789"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "863",
+        "ingredients": [
+            "780",
+            "861"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "864",
+        "ingredients": [
+            "850",
+            "852",
+            "851",
+            "853"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "865",
+        "ingredients": [
+            "562",
+            "862"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "866",
+        "ingredients": [
+            "562",
+            "863"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "867",
+        "ingredients": [
+            "866",
+            "872"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "868",
+        "ingredients": [
+            "839",
+            "867"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "869",
+        "ingredients": [
+            "798",
+            "859"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "870",
+        "ingredients": [
+            "759",
+            "847"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "871",
+        "ingredients": [
+            "776",
+            "774",
+            "775",
+            "771"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "872",
+        "ingredients": [
+            "845",
+            "798"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "873",
+        "ingredients": [
+            "833",
+            "870"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "874",
+        "ingredients": [
+            "860",
+            "845"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "875",
+        "ingredients": [
+            "797",
+            "870"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "876",
+        "ingredients": [
+            "873",
+            "801"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "877",
+        "ingredients": [
+            "876",
+            "797"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "878",
+        "ingredients": [
+            "867",
+            "875"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "879",
+        "ingredients": [
+            "822",
+            "873"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "880",
+        "ingredients": [
+            "747",
+            "721"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "881",
+        "ingredients": [
+            "798",
+            "819"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "882",
+        "ingredients": [
+            "750",
+            "820"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "883",
+        "ingredients": [
+            "827",
+            "821"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "884",
+        "ingredients": [
+            "796",
+            "880"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "885",
+        "ingredients": [
+            "818",
+            "817"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "886",
+        "ingredients": [
+            "879",
+            "874"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "887",
+        "ingredients": [
+            "819",
+            "821",
+            "820",
+            "849"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "888",
+        "ingredients": [
+            "885",
+            "886"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "889",
+        "ingredients": [
+            "888",
+            "841"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "890",
+        "ingredients": [
+            "877",
+            "835"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "891",
+        "ingredients": [
+            "881",
+            "883",
+            "882",
+            "884"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "892",
+        "ingredients": [
+            "798",
+            "889"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "893",
+        "ingredients": [
+            "892",
+            "796"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "894",
+        "ingredients": [
+            "857",
+            "887"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "895",
+        "ingredients": [
+            "891",
+            "888"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "896",
+        "ingredients": [
+            "890",
+            "895"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "897",
+        "ingredients": [
+            "896",
+            "894"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "898",
+        "ingredients": [
+            "871",
+            "897"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "899",
+        "ingredients": [
+            "856",
+            "886",
+            "877",
+            "878"
+        ],
+        "isUnique": true
+    },
+    {
+        "result": "900",
+        "ingredients": [
+            "863",
+            "864"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "901",
+        "ingredients": [
+            "899",
+            "900"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "902",
+        "ingredients": [
+            "825",
+            "898"
+        ],
+        "isUnique": false
+    },
+    {
+        "result": "903",
+        "ingredients": [
+            "858",
+            "893",
+            "887",
+            "895"
+        ],
+        "isUnique": true
+    }
+]
