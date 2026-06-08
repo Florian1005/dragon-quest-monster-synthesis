@@ -18,7 +18,7 @@
               class="w-10 h-10 object-contain"
               v-if="monster.image"
             />
-            <h2 class="text-2xl font-bold">{{ monster.name_jp }}</h2>
+            <h2 class="text-2xl font-bold">{{ monster.name }}</h2>
             <span
               class="px-2 py-0.5 rounded bg-primary-100 text-primary-700 text-sm font-bold"
             >
@@ -60,7 +60,7 @@
                 />
                 <div class="flex flex-col">
                   <span class="text-sm font-medium">{{
-                    getMonster(id)?.name_jp || id
+                    getMonster(id)?.name || id
                   }}</span>
                   <span class="text-[10px] text-gray-400 font-mono"
                     >ID: {{ id }}</span
@@ -114,7 +114,7 @@
                             >{{ getMonster(pId)?.rank }}</span
                           >
                           <span class="text-xs font-medium truncate">{{
-                            getMonster(pId)?.name_jp || "???"
+                            getMonster(pId)?.name || "???"
                           }}</span>
                         </div>
                       </div>
@@ -166,7 +166,7 @@
                           {{ getMonster(usage.resultId)?.rank }}
                         </span>
                         <p class="font-bold text-sm truncate">
-                          {{ getMonster(usage.resultId)?.name_jp }}
+                          {{ getMonster(usage.resultId)?.name }}
                         </p>
                       </div>
                     </div>
