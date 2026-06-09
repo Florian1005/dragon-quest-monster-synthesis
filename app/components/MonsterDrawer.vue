@@ -195,11 +195,11 @@
 </template>
 
 <script setup lang="ts">
-import { computed, ref, onMounted } from "vue";
+import { computed } from "vue";
 import { useAsset } from "~/composable/useAsset";
 import { useMonsters } from "~/composable/useMonster";
+import { useRecipes } from "~/composable/useRecipes";
 import type { Monster } from "~/interfaces/monster.interface";
-import type { Recipe } from "~/interfaces/recipe.interface";
 
 const props = defineProps<{
   monster: Monster | null;
@@ -207,23 +207,16 @@ const props = defineProps<{
 }>();
 
 const emit = defineEmits(["update:modelValue"]);
-const config = useRuntimeConfig();
 const { getMonster } = useMonsters();
 const { resolvePath } = useAsset();
-const recipes = ref<Recipe[]>([]);
+// On réutilise l'état partagé déjà chargé pour la source active (DQM2, DQMJ3 Pro…)
+// au lieu de re-fetch une source codée en dur.
+const { recipes } = useRecipes();
 
 const tabs = [
   { label: "Généalogie", slot: "genealogy" },
   { label: "Utilisé pour...", slot: "usages" },
 ];
-
-onMounted(async () => {
-  const baseUrl = config.app.baseURL;
-  const data = await fetch(`${baseUrl}/data/dqmj3pro/recipes.json`).then((r) =>
-    r.json(),
-  );
-  recipes.value = data;
-});
 
 const usages = computed(() => {
   if (!props.monster || recipes.value.length === 0) return [];
@@ -247,26 +240,5 @@ const usages = computed(() => {
         partnersIds: allIngredients,
       };
     });
-});
-const requirements = computed(() => {
-  if (!props.monster || recipes.value.length === 0) return {};
-  const counts: Record<string, number> = {};
-  const MAX_DEPTH = 3;
-
-  function dfs(id: string, depth = 0) {
-    if (depth >= MAX_DEPTH) {
-      counts[id] = (counts[id] || 0) + 1;
-      return;
-    }
-    const recipe = recipes.value.find((r) => r.result === id);
-    if (!recipe) {
-      counts[id] = (counts[id] || 0) + 1;
-      return;
-    }
-    recipe.ingredients.forEach((ingredientId) => dfs(ingredientId, depth + 1));
-  }
-
-  dfs(props.monster.id);
-  return counts;
 });
 </script>
