@@ -62,27 +62,39 @@ watch(selectedRank, (val) => {
   <div
     class="sticky top-0 z-20 bg-white/95 dark:bg-gray-900/95 backdrop-blur-sm border-b dark:border-gray-800 py-4 mb-4 shadow-sm"
   >
-    <div class="flex gap-2 items-center container mx-auto px-4">
+    <div
+      class="flex flex-wrap sm:flex-nowrap gap-2 items-center container mx-auto px-4"
+    >
       <USelect
         v-model="selectedSource"
         :items="sources"
         value-key="value"
         label-key="label"
-        class="w-40"
+        class="order-2 flex-1 sm:order-1 sm:flex-none sm:w-40"
         size="lg"
       />
 
       <UInput
         v-model="search"
         placeholder="Rechercher un monstre..."
-        class="flex-1"
+        class="order-1 w-full sm:order-2 sm:w-auto sm:flex-1"
         icon="i-heroicons-magnifying-glass"
         size="lg"
       />
 
-      <USelect v-model="selectedRank" :items="ranks" class="w-32" size="lg" />
+      <USelect
+        v-model="selectedRank"
+        :items="ranks"
+        class="order-3 flex-1 sm:flex-none sm:w-32"
+        size="lg"
+      />
 
-      <USelectMenu v-model="selectedType" :items="types" class="w-32" size="lg">
+      <USelectMenu
+        v-model="selectedType"
+        :items="types"
+        class="order-4 flex-1 sm:flex-none sm:w-32"
+        size="lg"
+      >
         <template #leading>
           <img
             v-if="selectedType?.icon"
