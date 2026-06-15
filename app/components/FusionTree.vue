@@ -31,6 +31,12 @@
           >
             {{ data.rank }}
           </div>
+          <div
+            v-if="data.quantity > 1"
+            class="absolute -top-2 -left-2 bg-primary-600 text-white text-[10px] font-bold px-1.5 rounded-full"
+          >
+            ×{{ data.quantity }}
+          </div>
         </div>
       </template>
     </VueFlow>
@@ -79,7 +85,7 @@ const buildTree = (monsterId: string) => {
   const newEdges: any[] = [];
   const visited = new Set<string>();
 
-  function traverse(monsterId: string, depth = 0) {
+  function traverse(monsterId: string, depth = 0, quantity = 1) {
     if (visited.has(monsterId + depth) || depth > 3) return;
     visited.add(monsterId + depth);
 
@@ -93,6 +99,7 @@ const buildTree = (monsterId: string) => {
         label: monster?.name || `${monsterId}`,
         image: monster?.image,
         rank: monster?.rank,
+        quantity,
       },
       position: { x: 0, y: 0 },
     });
@@ -102,18 +109,23 @@ const buildTree = (monsterId: string) => {
     if (monsterRecipes.length > 0) {
       const recipe = monsterRecipes[0];
 
-      recipe?.ingredients.forEach((ingId, index) => {
+      const counts = new Map<string, number>();
+      recipe?.ingredients.forEach((ingId) => {
+        counts.set(ingId, (counts.get(ingId) ?? 0) + 1);
+      });
+
+      counts.forEach((ingQuantity, ingId) => {
         const childNodeId = `node-${ingId}-${depth + 1}`;
 
         newEdges.push({
-          id: `e-${ingId}-${monsterId}-${depth}-${index}`,
+          id: `e-${ingId}-${monsterId}-${depth}`,
           source: childNodeId,
           target: nodeId,
           animated: false,
           style: { stroke: "#3b82f6", strokeWidth: 2 },
         });
 
-        traverse(ingId, depth + 1);
+        traverse(ingId, depth + 1, ingQuantity);
       });
     }
   }
